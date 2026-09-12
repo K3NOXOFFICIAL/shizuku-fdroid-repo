@@ -1,4 +1,4 @@
-# Shizuku Apps Catalog (375 apps)
+# Shizuku Apps Catalog (387 apps)
 
 Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) on 2026-09-12. Sorted by category.
 
@@ -466,3 +466,18 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [Debloater-next](https://github.com/Dev97633/Debloater-next) — Safe open-source Android debloater using Shizuku, no root required.
 - [Gamaspace](https://github.com/coco0081/Gamaspace) — Game optimization app with Shizuku support: RAM, CPU, GPU, battery optimization and game launcher.
 - [qidi](https://github.com/iaakki/qidi) — Shizuku service to help with Android battery optimizer.
+
+## Audio
+
+- [RootlessBrennanDSP](https://github.com/bshea-1/RootlessBrennanDSP) — High-performance ultra-low-latency system-wide DSP audio engine for non-rooted Android. JamesDSP alternative.
+- [allEQ](https://github.com/omixin/allEQ) — Rootless 10-band system equalizer for Android using Shizuku and Android AudioEffects.
+- [AetherEQ](https://github.com/chewtoo22-rgb/AetherEQ) — Peace-inspired system-wide audio equalizer and DSP enhancer for Android.
+- [AcoustaHires](https://github.com/imdacode/AcoustaHires) — Rootless high-resolution audio DSP equalizer using Shizuku for wired and Bluetooth devices.
+- [RootlessViPER4Android](https://github.com/alienware377/RootlessViPER4Android) — ViPER4Android effects ported into a RootlessJamesDSP fork. Rootless system-wide audio.
+- [RLJamesDSP](https://github.com/Ero-gamer/RLJamesDSP) — System-wide JamesDSP audio processing engine for non-rooted Android devices.
+- [SiphonDSP_J](https://github.com/Jamie05351/SiphonDSP_J) — System-wide JamesDSP audio processing engine for non-rooted Android devices.
+- [JamesDSP-for-Android](https://github.com/akavkl/JamesDSP-for-Android) — JamesDSP audio engine port for Android.
+- [MANTRA_ROUTE](https://github.com/markoboskoauroville/MANTRA_ROUTE) — Every audio output as a row in one notification. Shizuku-based routing control.
+- [Audio-Refresher](https://github.com/SebastianZzzz/Audio-Refresher) — Refresh audio services via Shizuku to keep audio service alive in background.
+- [Ever-Call-Recorder](https://github.com/hari161008/Ever-Call-Recorder) — Non-root open-source call recorder using Shizuku for both-side call recording.
+- [Active-2-Way-Cross-Over](https://github.com/jasyscom-corp/Active-2-Way-Cross-Over-AT-2XDSP-JamesDSP-LiveProg-) — Active 2-way crossover DSP config for JamesDSP LiveProg.
