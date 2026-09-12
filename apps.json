@@ -1,0 +1,2480 @@
+[
+  {
+    "name": "ClawGUI",
+    "category": "AI agents",
+    "github": "ZJU-REAL/ClawGUI",
+    "url": "https://github.com/ZJU-REAL/ClawGUI",
+    "description": "On-device GUI-agent runner deploying the full ClawGUI brain stack on one phone controlled via Shizuku."
+  },
+  {
+    "name": "Mythara",
+    "category": "AI agents",
+    "github": "ankurCES/project_mythara",
+    "url": "https://github.com/ankurCES/project_mythara",
+    "description": "Open-source local-first agentic AI OS layer for Android. Runs 65+ on-device tools (calls, SMS, calendar, Termux, face recognition); uses Shizuku for cosmetic system tweaks (font scale, dark mode, accent) without root"
+  },
+  {
+    "name": "OmniBot",
+    "category": "AI agents",
+    "github": "omnimind-ai/OmniBot",
+    "url": "https://github.com/omnimind-ai/OmniBot",
+    "description": "On-device AI agent with terminal, web browsing, device control, and system integration"
+  },
+  {
+    "name": "Open-AutoGLM-Android",
+    "category": "AI agents",
+    "github": "xinzezhu/Open-AutoGLM-Android",
+    "url": "https://github.com/xinzezhu/Open-AutoGLM-Android/blob/main/README_EN.md",
+    "description": "Automates actions on your device using the AutoGLM vision language model"
+  },
+  {
+    "name": "OpenCyvis",
+    "category": "AI agents",
+    "github": "opencyvis/opencyvis-phone",
+    "url": "https://github.com/opencyvis/opencyvis-phone",
+    "description": "Open-source AI phone that sees your screen and operates apps from natural language tasks, works in the background"
+  },
+  {
+    "name": "OpenDroid",
+    "category": "AI agents",
+    "github": "yashab-cyber/opendroid",
+    "url": "https://github.com/yashab-cyber/opendroid",
+    "description": "Open-source autonomous on-device AI agent that plans and executes multi-step tasks via screen automation"
+  },
+  {
+    "name": "OpenMinis",
+    "category": "AI agents",
+    "github": "OpenMinis/OpenMinis",
+    "url": "https://github.com/OpenMinis/OpenMinis",
+    "description": "AI-powered agent with Linux shell, browser automation, and system control via Shizuku"
+  },
+  {
+    "name": "Operit AI",
+    "category": "AI agents",
+    "github": "AAswordman/Operit",
+    "url": "https://github.com/AAswordman/Operit",
+    "description": "The most powerful AI agent and AI chat software on Android. Can run commands using Shizuku"
+  },
+  {
+    "name": "rish-mcp",
+    "category": "AI agents",
+    "github": "turin-dev/rish-mcp",
+    "url": "https://github.com/turin-dev/rish-mcp",
+    "description": "Exposes an Android device's Shizuku shell to AIs as an MCP `run_shell` tool over an outbound WebSocket relay — run shell commands from Claude or any MCP client with no VPN, ADB, or sshd"
+  },
+  {
+    "name": "roubao",
+    "category": "AI agents",
+    "github": "Turbo1123/roubao",
+    "url": "https://github.com/Turbo1123/roubao/blob/main/README_EN.md",
+    "description": "Open-source on-device AI phone automation assistant based on vision-language models that performs tasks via Shizuku system permissions, no PC needed. `MIT` [(Source code)](https://github.com/Turbo1123/roubao)"
+  },
+  {
+    "name": "Ruto-GLM",
+    "category": "AI agents",
+    "github": "iamr0s/Ruto-GLM",
+    "url": "https://github.com/iamr0s/Ruto-GLM/blob/main/README_en.md",
+    "description": "Automation and Multitasking Framework using AutoGLM. Can create virtual screens that agents can run apps on and use multi-window"
+  },
+  {
+    "name": "flicky",
+    "category": "Android TV",
+    "github": "",
+    "url": "https://apt.izzysoft.de/fdroid/index/apk/app.flicky",
+    "description": "An F-Droid client designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/flicky)"
+  },
+  {
+    "name": "fluffy",
+    "category": "Android TV",
+    "github": "",
+    "url": "https://apt.izzysoft.de/fdroid/index/apk/app.fluffy",
+    "description": "An file manager and archive viewer designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy)"
+  },
+  {
+    "name": "RecentAppsTV",
+    "category": "Android TV",
+    "github": "Qutaiba-Khader/RecentAppsTV",
+    "url": "https://github.com/Qutaiba-Khader/RecentAppsTV",
+    "description": "Recent Apps overlay for Android TV"
+  },
+  {
+    "name": "android-realtime-voice-isolation",
+    "category": "Audio",
+    "github": "sk2andy/android-realtime-voice-isolation",
+    "url": "https://github.com/sk2andy/android-realtime-voice-isolation",
+    "description": "On-device real-time voice isolation using Shizuku, GTCRN, and ONNX Runtime"
+  },
+  {
+    "name": "MicUp",
+    "category": "Audio",
+    "github": "papergray/MicUp",
+    "url": "https://github.com/papergray/MicUp",
+    "description": ""
+  },
+  {
+    "name": "Mixer (1)",
+    "category": "Audio",
+    "github": "farizanjum/mixer-1",
+    "url": "https://github.com/farizanjum/mixer-1",
+    "description": "Per-app volume overlay intercepting hardware keys"
+  },
+  {
+    "name": "RootlessJamesDSP",
+    "category": "Audio",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp",
+    "description": "An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices `GPL-3.0` [(Source code)](https://github.com/timschneeb/RootlessJamesDSP)"
+  },
+  {
+    "name": "Spotify Ad Skipper",
+    "category": "Audio",
+    "github": "sihooney/spotify-ad-skipper",
+    "url": "https://github.com/sihooney/spotify-ad-skipper",
+    "description": "Watches Spotify notifications and auto-skips ads by restarting playback, using Shizuku to relaunch from background."
+  },
+  {
+    "name": "Volume++",
+    "category": "Audio",
+    "github": "noel-digital-fan/volume_plus_plus",
+    "url": "https://github.com/noel-digital-fan/volume_plus_plus",
+    "description": "Custom volume panel with per-app audio mixing via Shizuku or root"
+  },
+  {
+    "name": "VolumeManager",
+    "category": "Audio",
+    "github": "yume-chan/VolumeManager",
+    "url": "https://github.com/yume-chan/VolumeManager",
+    "description": "Control each app's volume independently"
+  },
+  {
+    "name": "wecho",
+    "category": "Audio",
+    "github": "qumolangmo/wecho",
+    "url": "https://github.com/qumolangmo/wecho",
+    "description": "An Android application for global audio effects processing"
+  },
+  {
+    "name": "AutoJs6",
+    "category": "Automation",
+    "github": "SuperMonster003/AutoJs6",
+    "url": "https://github.com/SuperMonster003/AutoJs6",
+    "description": "JavaScript-based automation tool"
+  },
+  {
+    "name": "AutoSlide",
+    "category": "Automation",
+    "github": "tianxing-ovo/AutoSlide",
+    "url": "https://github.com/tianxing-ovo/AutoSlide/blob/master/README.en.md",
+    "description": "Auto-slide tool that auto-plays short videos and flips reading pages, with floating controls `Apache-2.0` [(Source code)](https://github.com/tianxing-ovo/AutoSlide)"
+  },
+  {
+    "name": "Geto",
+    "category": "Automation",
+    "github": "JackEblan/Geto",
+    "url": "https://github.com/JackEblan/Geto",
+    "description": "Automatically change device settings when a specific app is launched."
+  },
+  {
+    "name": "IMD",
+    "category": "Automation",
+    "github": "soul-99/SU_IMD",
+    "url": "https://github.com/soul-99/SU_IMD",
+    "description": "Fork of Geto that hides developer options, ADB, accessibility services and Shizuku itself for restrictive apps like banking, then restores them"
+  },
+  {
+    "name": "PhoneProfilesPlus",
+    "category": "Automation",
+    "github": "henrichg/PhoneProfilesPlus",
+    "url": "https://github.com/henrichg/PhoneProfilesPlus",
+    "description": "Allows automatic or one-click configuration of your device for specific life situations"
+  },
+  {
+    "name": "Service-Keeper",
+    "category": "Automation",
+    "github": "shaunkleyn/Service-Keeper",
+    "url": "https://github.com/shaunkleyn/Service-Keeper",
+    "description": "Watches background, accessibility and notification-listener services and auto-restarts ones the system kills."
+  },
+  {
+    "name": "Tasker Settings",
+    "category": "Automation",
+    "github": "joaomgcd/TaskerSettings",
+    "url": "https://github.com/joaomgcd/TaskerSettings",
+    "description": "Helper app for Tasker"
+  },
+  {
+    "name": "vFlow",
+    "category": "Automation",
+    "github": "ChaoMixian/vFlow",
+    "url": "https://github.com/ChaoMixian/vFlow/blob/master/README_EN.md",
+    "description": "Visual automation tool that combines tapping, recognition, branching, and system actions into approachable workflows"
+  },
+  {
+    "name": "Aliucord-Manager",
+    "category": "Communication",
+    "github": "Aliucord/Manager",
+    "url": "https://github.com/Aliucord/Manager",
+    "description": "Discord modding tool"
+  },
+  {
+    "name": "Bluesky Redirect",
+    "category": "Communication",
+    "github": "",
+    "url": "https://apt.izzysoft.de/fdroid/index/apk/io.github.turtlepaw.blueskyredirect",
+    "description": "A simple app for automatically launching Bluesky links in your preferred Bluesky client `MIT` [(Source code)](https://github.com/Turtlepaw/BlueskyRedirect)"
+  },
+  {
+    "name": "CallVault",
+    "category": "Communication",
+    "github": "madkongo/CallVault",
+    "url": "https://github.com/madkongo/CallVault",
+    "description": "Non-root call recorder with on-device transcripts/summaries; self-contained over embedded ADB or via an optional Shizuku backend."
+  },
+  {
+    "name": "cally",
+    "category": "Communication",
+    "github": "LyoSU/cally",
+    "url": "https://github.com/LyoSU/cally",
+    "description": "Call recorder for stock Pixel 6+ devices that captures both call directions via a Shizuku shell-UID audio service, without root or unlocked bootloader."
+  },
+  {
+    "name": "CatShare",
+    "category": "Communication",
+    "github": "",
+    "url": "https://f-droid.org/packages/moe.reimu.catshare/",
+    "description": "Send and receive files over Bluetooth `MIT` [(Source code)](https://github.com/kmod-midori/CatShare)"
+  },
+  {
+    "name": "GhostMode",
+    "category": "Communication",
+    "github": "Foxlape/GhostMode",
+    "url": "https://github.com/Foxlape/GhostMode",
+    "description": "Makes the phone appear unavailable for incoming calls while keeping LTE/5G data active"
+  },
+  {
+    "name": "KDE Connect (Shizuku)",
+    "category": "Communication",
+    "github": "libdu/kde-connect-shizuku",
+    "url": "https://github.com/libdu/kde-connect-shizuku",
+    "description": "KDE Connect build with Shizuku-powered automatic bidirectional clipboard sync between Android and PC. (Fork of KDE Connect with restored clipboard-send support via Shizuku.)"
+  },
+  {
+    "name": "Kettu",
+    "category": "Communication",
+    "github": "C0C0B01/Kettu",
+    "url": "https://github.com/C0C0B01/Kettu",
+    "description": "Discord modding tool. Continuation of the abandoned Bunny-Manager project"
+  },
+  {
+    "name": "Lemmy Redirect",
+    "category": "Communication",
+    "github": "",
+    "url": "https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect",
+    "description": "A simple app for automatically launching Lemmy links in your preferred Lemmy client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)"
+  },
+  {
+    "name": "Mastodon Redirect",
+    "category": "Communication",
+    "github": "",
+    "url": "https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect",
+    "description": "A simple app for automatically launching fediverse links in your preferred Mastodon client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)"
+  },
+  {
+    "name": "revenge-manager",
+    "category": "Communication",
+    "github": "revenge-mod/revenge-manager",
+    "url": "https://github.com/revenge-mod/revenge-manager",
+    "description": "Discord modding tool. Another continuation of the abandoned Bunny-Manager project"
+  },
+  {
+    "name": "ShizuCallRecorder",
+    "category": "Communication",
+    "github": "kitsumed/ShizuCallRecorder",
+    "url": "https://github.com/kitsumed/ShizuCallRecorder",
+    "description": ""
+  },
+  {
+    "name": "TxtNet-Browser",
+    "category": "Communication",
+    "github": "lukeaschenbrenner/TxtNet-Browser",
+    "url": "https://github.com/lukeaschenbrenner/TxtNet-Browser",
+    "description": "An app that lets you browse the web over SMS"
+  },
+  {
+    "name": "Adaptive-Theme",
+    "category": "Customization",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=dev.lexip.hecate",
+    "description": "Smart dark mode based on ambient light `GPL-3.0` [(Source code)](https://github.com/xLexip/Adaptive-Theme)"
+  },
+  {
+    "name": "AmbientMusicMod",
+    "category": "Customization",
+    "github": "KieronQuinn/AmbientMusicMod",
+    "url": "https://github.com/KieronQuinn/AmbientMusicMod",
+    "description": "Port of Now Playing from Pixels to other Android devices"
+  },
+  {
+    "name": "android-perapp-language-selector",
+    "category": "Customization",
+    "github": "TakeruF/android-perapp-language-selector",
+    "url": "https://github.com/TakeruF/android-perapp-language-selector",
+    "description": "Force per-app language settings on Android 13+ without root, even for apps without built-in language options"
+  },
+  {
+    "name": "AutoDND",
+    "category": "Customization",
+    "github": "",
+    "url": "https://f-droid.org/packages/moe.dic1911.autodnd/",
+    "description": "A simple tool to toggle DND automatically when using specified apps `AGPL-3.0` [(Source code)](https://github.com/im030/android_AutoDND)"
+  },
+  {
+    "name": "AutoRotate",
+    "category": "Customization",
+    "github": "eiyooooo/AutoRotate",
+    "url": "https://github.com/eiyooooo/AutoRotate",
+    "description": "Manage automatic rotation of different screens on Android phones"
+  },
+  {
+    "name": "Capsulyric",
+    "category": "Customization",
+    "github": "FrancoGiudans/Capsulyric",
+    "url": "https://github.com/FrancoGiudans/Capsulyric",
+    "description": "Displays now-playing lyrics on the status bar and lock screen via Android Live Update and Xiaomi Super Island"
+  },
+  {
+    "name": "CarrierVanityName",
+    "category": "Customization",
+    "github": "nullbytepl/CarrierVanityName",
+    "url": "https://github.com/nullbytepl/CarrierVanityName",
+    "description": "Carrier Vanity Name is a very simple app to change the carrier names on unrooted Android devices"
+  },
+  {
+    "name": "CleanBar",
+    "category": "Customization",
+    "github": "sachinmandawi/CleanBar",
+    "url": "https://github.com/sachinmandawi/CleanBar",
+    "description": "1-tap status bar and system icon hider to hide clock, battery, and icons, no root required"
+  },
+  {
+    "name": "ColorBlendr",
+    "category": "Customization",
+    "github": "Mahmud0808/ColorBlendr",
+    "url": "https://github.com/Mahmud0808/ColorBlendr",
+    "description": "An application to modify Material You colors of your device"
+  },
+  {
+    "name": "CustomAnimator",
+    "category": "Customization",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=com.arslan.customanimator",
+    "description": "Customize animation speeds on a more fine-grained level `GPL-3.0` [(Source code)](https://github.com/AhmetCanArslan/CustomAnimator)"
+  },
+  {
+    "name": "DarQ-Reborn",
+    "category": "Customization",
+    "github": "Arora-Sir/DarQ-Reborn",
+    "url": "https://github.com/Arora-Sir/DarQ-Reborn",
+    "description": "Per-app selectable force dark option for Android 10 and above"
+  },
+  {
+    "name": "Dawn-Desktop-Addons",
+    "category": "Customization",
+    "github": "Dawncraft/Dawn-Desktop-Addons",
+    "url": "https://github.com/Dawncraft/Dawn-Desktop-Addons",
+    "description": "Some Android app widgets and live wallpapers"
+  },
+  {
+    "name": "Dragon-Launcher",
+    "category": "Customization",
+    "github": "",
+    "url": "https://f-droid.org/packages/org.elnix.dragonlauncher/",
+    "description": ""
+  },
+  {
+    "name": "DroidOS",
+    "category": "Customization",
+    "github": "Katsuyamaki/DroidOS",
+    "url": "https://github.com/Katsuyamaki/DroidOS",
+    "description": ""
+  },
+  {
+    "name": "essentials",
+    "category": "Customization",
+    "github": "sameerasw/essentials",
+    "url": "https://github.com/sameerasw/essentials",
+    "description": ""
+  },
+  {
+    "name": "expressive-cutout",
+    "category": "Customization",
+    "github": "EvanKoe/expressive-cutout",
+    "url": "https://github.com/EvanKoe/expressive-cutout",
+    "description": "Offline Dynamic Island following Material Expressive design with notifications, live tiles, and Material You colors"
+  },
+  {
+    "name": "Extendroid",
+    "category": "Customization",
+    "github": "legendsayantan/Extendroid",
+    "url": "https://github.com/legendsayantan/Extendroid",
+    "description": ""
+  },
+  {
+    "name": "gama",
+    "category": "Customization",
+    "github": "palincat/gama",
+    "url": "https://github.com/palincat/gama",
+    "description": "Can switch between OpenGL and Vulkan renderers by setting the `debug.hwui.renderer` system property"
+  },
+  {
+    "name": "HyperBridge",
+    "category": "Customization",
+    "github": "D4vidDf/HyperBridge",
+    "url": "https://github.com/D4vidDf/HyperBridge",
+    "description": "Brings the native HyperIsland experience to HyperOS by bridging notifications into the camera cutout UI with themes and widgets"
+  },
+  {
+    "name": "Jarngreipr",
+    "category": "Customization",
+    "github": "BrianJr03/Jarngreipr",
+    "url": "https://github.com/BrianJr03/Jarngreipr",
+    "description": "Launcher for dual-screen gaming devices. Uses Shizuku to map on of the touch screens to controller inputs"
+  },
+  {
+    "name": "Language-Selector",
+    "category": "Customization",
+    "github": "VegaBobo/Language-Selector",
+    "url": "https://github.com/VegaBobo/Language-Selector",
+    "description": "Allows users to select individual app languages (Android 13+)"
+  },
+  {
+    "name": "LinkSheet",
+    "category": "Customization",
+    "github": "LinkSheet/LinkSheet",
+    "url": "https://github.com/LinkSheet/LinkSheet",
+    "description": "Restore the Android <12 Url-App-Link-Chooser with Material3"
+  },
+  {
+    "name": "Lockscreen Widgets",
+    "category": "Customization",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets",
+    "description": ""
+  },
+  {
+    "name": "MultiLocale",
+    "category": "Customization",
+    "github": "Nightdavisao/MultiLocale",
+    "url": "https://github.com/Nightdavisao/MultiLocale",
+    "description": "A simple app that enables you to add additional (or \"unsupported\") languages to your device's locale settings, if the OEM (Xiaomi) doesn't let you"
+  },
+  {
+    "name": "OmniPrompt",
+    "category": "Customization",
+    "github": "mrndstvndv/OmniPrompt",
+    "url": "https://github.com/mrndstvndv/OmniPrompt",
+    "description": "A keyboard-first Android command palette that unifies app/device search, and system utilities into an overlay"
+  },
+  {
+    "name": "SetEditPlus",
+    "category": "Customization",
+    "github": "kerneldroid/SetEditPlus",
+    "url": "https://github.com/kerneldroid/SetEditPlus",
+    "description": "Editor for Android System/Secure/Global settings tables with Shizuku/Root modes, change tracking and boot persistence."
+  },
+  {
+    "name": "ShizukuShortcuts",
+    "category": "Customization",
+    "github": "yshalsager/ShizukuShortcuts",
+    "url": "https://github.com/yshalsager/ShizukuShortcuts",
+    "description": "Create launcher shortcuts for shell commands"
+  },
+  {
+    "name": "ShizuTools",
+    "category": "Customization",
+    "github": "legendsayantan/ShizuTools",
+    "url": "https://github.com/legendsayantan/ShizuTools",
+    "description": "Contains some easy-to-use tools to go beyond the level of control allowed by Android System"
+  },
+  {
+    "name": "Smart Dock",
+    "category": "Customization",
+    "github": "",
+    "url": "https://f-droid.org/packages/cu.axel.smartdock/",
+    "description": "Transform your phone into a desktop environment with taskbar, recent apps, and start menu `GPL-3.0` [(Source code)](https://github.com/axel358/smartdock)"
+  },
+  {
+    "name": "Smart Edge",
+    "category": "Customization",
+    "github": "",
+    "url": "https://f-droid.org/en/packages/com.imi.smartedge.sidebar.panel/",
+    "description": "A highly customizable Android side panel inspired by OriginOS `MIT` [(Source code)](https://github.com/Imtiaz-Official/Smart-Edge)"
+  },
+  {
+    "name": "Smart Island",
+    "category": "Customization",
+    "github": "agupta07505/SmartIsland",
+    "url": "https://github.com/agupta07505/SmartIsland",
+    "description": "A lightweight Android overlay that turns notifications, calls, and media playback into a floating glanceable island"
+  },
+  {
+    "name": "SmartspacerPlugins",
+    "category": "Customization",
+    "github": "KieronQuinn/SmartspacerPlugins",
+    "url": "https://github.com/KieronQuinn/SmartspacerPlugins",
+    "description": "Plugins for Smartspacer"
+  },
+  {
+    "name": "System UI Tuner",
+    "category": "Customization",
+    "github": "zacharee/Tweaker",
+    "url": "https://github.com/zacharee/Tweaker",
+    "description": "View and modify hidden settings on Android devices"
+  },
+  {
+    "name": "TapTap",
+    "category": "Customization",
+    "github": "KieronQuinn/TapTap",
+    "url": "https://github.com/KieronQuinn/TapTap",
+    "description": ""
+  },
+  {
+    "name": "Tarnhelm",
+    "category": "Customization",
+    "github": "",
+    "url": "https://f-droid.org/packages/cn.ac.lz233.tarnhelm/",
+    "description": "Clean up tracking from sharing links. Supports custom URL rewrite rules `GPL-3.0` [(Source code)](https://github.com/lz233/Tarnhelm)"
+  },
+  {
+    "name": "Taskbar",
+    "category": "Customization",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.farmerbb.taskbar/",
+    "description": "Use a start menu to access apps. Shizuku can unlock additional features `Apache-2.0` [(Source code)](https://github.com/farmerbb/Taskbar)"
+  },
+  {
+    "name": "WidgetsPro",
+    "category": "Customization",
+    "github": "preethamkmr3/WidgetsPro",
+    "url": "https://github.com/preethamkmr3/WidgetsPro",
+    "description": "CPU and battery widgets"
+  },
+  {
+    "name": "YoukiDEX",
+    "category": "Customization",
+    "github": "mrYouki/YoukiDex-Android-Desktop",
+    "url": "https://github.com/mrYouki/YoukiDex-Android-Desktop",
+    "description": "A full desktop experience layer for Android"
+  },
+  {
+    "name": "ActivityLauncherShizukuPlugin",
+    "category": "Development utilities",
+    "github": "ActivityLauncher/ActivityLauncherShizukuPlugin",
+    "url": "https://github.com/ActivityLauncher/ActivityLauncherShizukuPlugin",
+    "description": "A Shizuku-based plugin for [Activity Launcher](https://github.com/butzist/ActivityLauncher) that allows launching private (non-exported) activities."
+  },
+  {
+    "name": "ActivityManager",
+    "category": "Development utilities",
+    "github": "sdex/ActivityManager",
+    "url": "https://github.com/sdex/ActivityManager",
+    "description": "Launch hidden and unexported activities directly without root"
+  },
+  {
+    "name": "AndroidAccounts",
+    "category": "Development utilities",
+    "github": "iamr0s/AndroidAccounts",
+    "url": "https://github.com/iamr0s/AndroidAccounts",
+    "description": "Dump package names of apps that have registered an account for a user."
+  },
+  {
+    "name": "AndroidLowLevelDetector",
+    "category": "Development utilities",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=net.imknown.android.forefrontinfo",
+    "description": "Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc. `Apache-2.0` [(Source code)](https://github.com/imknown/AndroidLowLevelDetector)"
+  },
+  {
+    "name": "Cosmic-IDE",
+    "category": "Development utilities",
+    "github": "aload0/Cosmic-IDE",
+    "url": "https://github.com/aload0/Cosmic-IDE",
+    "description": "IDE for JVM development. Uses Shizuku for an embedded shell"
+  },
+  {
+    "name": "CurrentActivity",
+    "category": "Development utilities",
+    "github": "Omico/CurrentActivity",
+    "url": "https://github.com/Omico/CurrentActivity",
+    "description": "A current activity monitor"
+  },
+  {
+    "name": "debuggable-app-data-backup",
+    "category": "Development utilities",
+    "github": "timschneeb/debuggable-app-data-backup",
+    "url": "https://github.com/timschneeb/debuggable-app-data-backup",
+    "description": "Backup/restore private app data of debuggable apps using Shizuku"
+  },
+  {
+    "name": "DEVTools",
+    "category": "Development utilities",
+    "github": "MetxStudio/DEVTools",
+    "url": "https://github.com/MetxStudio/DEVTools",
+    "description": "All-in-one Android dev toolkit: terminals, sensor monitor, app/file managers plus a Shizuku shell helper."
+  },
+  {
+    "name": "DSU-Sideloader",
+    "category": "Development utilities",
+    "github": "VegaBobo/DSU-Sideloader",
+    "url": "https://github.com/VegaBobo/DSU-Sideloader",
+    "description": "A simple app made to help users easily install GSIs via DSU's Android feature."
+  },
+  {
+    "name": "dualapp-mediastore-compatibility",
+    "category": "Development utilities",
+    "github": "kaedea/dualapp-mediastore-compatibility",
+    "url": "https://github.com/kaedea/dualapp-mediastore-compatibility",
+    "description": "Fixes MediaStore & File IO compatibility issues between HostProfile App and WorkProfile/DualApp/MultiApp."
+  },
+  {
+    "name": "FPS-Meter-Android",
+    "category": "Development utilities",
+    "github": "rdevz-ph/FPS-Meter-Android",
+    "url": "https://github.com/rdevz-ph/FPS-Meter-Android",
+    "description": "High-performance lightweight FPS monitoring overlay inspired by Samsung Perf Z for gaming and performance testing"
+  },
+  {
+    "name": "FPSViewer",
+    "category": "Development utilities",
+    "github": "binhmod/FPSViewer",
+    "url": "https://github.com/binhmod/FPSViewer",
+    "description": "FPS viewer overlay with graph"
+  },
+  {
+    "name": "FrameX-Android",
+    "category": "Development utilities",
+    "github": "MaheshSharan/FrameX-Android",
+    "url": "https://github.com/MaheshSharan/FrameX-Android",
+    "description": "Real-time performance overlay for Android"
+  },
+  {
+    "name": "get_event",
+    "category": "Development utilities",
+    "github": "lalakii/get_event",
+    "url": "https://github.com/lalakii/get_event",
+    "description": "Read /dev/input/event*"
+  },
+  {
+    "name": "KeyAttestation",
+    "category": "Development utilities",
+    "github": "vvb2060/KeyAttestation",
+    "url": "https://github.com/vvb2060/KeyAttestation",
+    "description": "Supports generating, saving, loading, parsing and verifying Android key and ID attestation data."
+  },
+  {
+    "name": "LibChecker",
+    "category": "Development utilities",
+    "github": "LibChecker/LibChecker",
+    "url": "https://github.com/LibChecker/LibChecker",
+    "description": "An app to view libraries used in apps on your device. Uses Shizuku to determine the installation source of other apps."
+  },
+  {
+    "name": "LogFox",
+    "category": "Development utilities",
+    "github": "F0x1d/LogFox",
+    "url": "https://github.com/F0x1d/LogFox",
+    "description": ""
+  },
+  {
+    "name": "ManageSensors",
+    "category": "Development utilities",
+    "github": "Carry-rrk/ManageSensors",
+    "url": "https://github.com/Carry-rrk/ManageSensors",
+    "description": "Utilizes Shizuku to call AppOps APIs for fine-grained app permission control"
+  },
+  {
+    "name": "RootActivityLauncher",
+    "category": "Development utilities",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=tk.zwander.rootactivitylauncher",
+    "description": ""
+  },
+  {
+    "name": "wireless-adb-switch",
+    "category": "Development utilities",
+    "github": "Smooth-E/wireless-adb-switch",
+    "url": "https://github.com/Smooth-E/wireless-adb-switch",
+    "description": "Widgets & quick settings tile to toggle wireless debugging (with KDE Connect integration)"
+  },
+  {
+    "name": "ZeroStudio",
+    "category": "Development utilities",
+    "github": "msmt2018/ZeroStudio",
+    "url": "https://github.com/msmt2018/ZeroStudio",
+    "description": "On-device IDE for building real Gradle-based Android apps, with Shizuku, ADB and root device links."
+  },
+  {
+    "name": "Dhizuku",
+    "category": "Device owner (DPM)",
+    "github": "iamr0s/Dhizuku",
+    "url": "https://github.com/iamr0s/Dhizuku",
+    "description": "Shizuku-inspired app that allows sharing DeviceOwner permissions to third-party apps"
+  },
+  {
+    "name": "harbor",
+    "category": "Device owner (DPM)",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.monstera.harbor/",
+    "description": "Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)"
+  },
+  {
+    "name": "OwnDroid",
+    "category": "Device owner (DPM)",
+    "github": "BinTianqi/OwnDroid",
+    "url": "https://github.com/BinTianqi/OwnDroid",
+    "description": "Manage your device with Device owner privileges"
+  },
+  {
+    "name": "Adaptive-Hz",
+    "category": "Display management",
+    "github": "mahmutaunal/Adaptive-Hz",
+    "url": "https://github.com/mahmutaunal/Adaptive-Hz",
+    "description": "Automatically switches display refresh rate between 60Hz and 120Hz based on user interaction. Designed for Samsung devices without true adaptive refresh"
+  },
+  {
+    "name": "akiHz",
+    "category": "Display management",
+    "github": "anlaki-py/akihz",
+    "url": "https://github.com/anlaki-py/akihz",
+    "description": "Lightweight refresh rate switcher with Quick Settings tile, automatic rate detection, and floating FPS monitor"
+  },
+  {
+    "name": "android-display-extend",
+    "category": "Display management",
+    "github": "jqssun/android-display-extend",
+    "url": "https://github.com/jqssun/android-display-extend",
+    "description": ""
+  },
+  {
+    "name": "android-display-mirror",
+    "category": "Display management",
+    "github": "jqssun/android-display-mirror",
+    "url": "https://github.com/jqssun/android-display-mirror",
+    "description": ""
+  },
+  {
+    "name": "Castla",
+    "category": "Display management",
+    "github": "Suprhimp/castla",
+    "url": "https://github.com/Suprhimp/castla",
+    "description": "Creates a virtual display, runs apps on it, and streams screen, touch, and audio into a remote browser over local Wi-Fi"
+  },
+  {
+    "name": "ConnectScreen",
+    "category": "Display management",
+    "github": "",
+    "url": "https://connect-screen.com/",
+    "description": "Launch single apps to display in fullscreen on external displays. Can use the primary screen of the mobile as a virtual touchpad to control external display. Can rotate the screen for applications like TikTok `GPL-3.0` [(Source code)](https://gitee.com/connect-screen/connect-screen)"
+  },
+  {
+    "name": "deskcontrol",
+    "category": "Display management",
+    "github": "exiarepairii/deskcontrol",
+    "url": "https://github.com/exiarepairii/deskcontrol",
+    "description": "Turns your phone into a touchpad and keyboard for a single app running on a wired external display"
+  },
+  {
+    "name": "Dextop",
+    "category": "Display management",
+    "github": "NarYuki/Dextop",
+    "url": "https://github.com/NarYuki/Dextop",
+    "description": "Desktop environment using Samsung DeX or Shizuku with multitasking and custom resolution"
+  },
+  {
+    "name": "Fold_Switcher",
+    "category": "Display management",
+    "github": "eiyooooo/Fold_Switcher",
+    "url": "https://github.com/eiyooooo/Fold_Switcher",
+    "description": "Switch between various display folding states on foldable devices"
+  },
+  {
+    "name": "Grayscaler",
+    "category": "Display management",
+    "github": "C10udburst/Grayscaler",
+    "url": "https://github.com/C10udburst/Grayscaler",
+    "description": "Keep your phone mostly monochrome, but allow apps like camera to be in color"
+  },
+  {
+    "name": "PortalPad",
+    "category": "Display management",
+    "github": "Smart-Home-User/PortalPad",
+    "url": "https://github.com/Smart-Home-User/PortalPad",
+    "description": "Turns your phone into a trackpad, air mouse, and remote for external displays like AR glasses, monitors, and TVs"
+  },
+  {
+    "name": "SecondScreen",
+    "category": "Display management",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=com.farmerbb.secondscreen.free",
+    "description": "Better screen mirroring for Android devices `Apache-2.0` [(Source code)](https://github.com/farmerbb/SecondScreen)"
+  },
+  {
+    "name": "Tideo Auto Brightness",
+    "category": "Display management",
+    "github": "faded-penguin021/Tideo-Auto-Brightness",
+    "url": "https://github.com/faded-penguin021/Tideo-Auto-Brightness",
+    "description": "Glass-box adaptive-brightness replacement with explainable decisions and circadian support."
+  },
+  {
+    "name": "Aniyomi",
+    "category": "Entertainment",
+    "github": "aniyomiorg/aniyomi",
+    "url": "https://github.com/aniyomiorg/aniyomi",
+    "description": "Tachiyomi fork with anime support and plugin management using Shizuku."
+  },
+  {
+    "name": "BiliDownOut",
+    "category": "Entertainment",
+    "github": "",
+    "url": "https://f-droid.org/packages/cn.a10miaomiao.bilidown/",
+    "description": "Export videos downloaded from the Android version of Bilibili `GPL-3.0` [(Source code)](https://github.com/10miaomiao/bili-down-out)"
+  },
+  {
+    "name": "hlbmerge_flutter",
+    "category": "Entertainment",
+    "github": "molihuan/hlbmerge_flutter",
+    "url": "https://github.com/molihuan/hlbmerge_flutter",
+    "description": "Merge and export BiliBili cache files into MP4, supports mobile and computer client"
+  },
+  {
+    "name": "Mihon",
+    "category": "Entertainment",
+    "github": "mihonapp/mihon",
+    "url": "https://github.com/mihonapp/mihon",
+    "description": "Manga reader using Shizuku plugin management. Independent successor of Tachiyomi."
+  },
+  {
+    "name": "Butler",
+    "category": "File management",
+    "github": "d4rken-org/butler",
+    "url": "https://github.com/d4rken-org/butler",
+    "description": ""
+  },
+  {
+    "name": "FileExplorer",
+    "category": "File management",
+    "github": "SysAdminDoc/FileExplorer",
+    "url": "https://github.com/SysAdminDoc/FileExplorer",
+    "description": "File manager for local, root, archives, network shares, cloud, vaults and storage analysis"
+  },
+  {
+    "name": "fluffy",
+    "category": "File management",
+    "github": "",
+    "url": "https://apt.izzysoft.de/fdroid/index/apk/app.fluffy",
+    "description": "An file manager and archive viewer with Android TV support. Supports full file access using Shizuku, if enabled in settings `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy)"
+  },
+  {
+    "name": "immich-cloud-media",
+    "category": "File management",
+    "github": "Dreaming-Codes/immich-cloud-media",
+    "url": "https://github.com/Dreaming-Codes/immich-cloud-media",
+    "description": "Cloud media provider that surfaces a self-hosted Immich library in Android's system photo picker, configured via Shizuku or ADB."
+  },
+  {
+    "name": "NFile",
+    "category": "File management",
+    "github": "Senzme/NFile",
+    "url": "https://github.com/Senzme/NFile",
+    "description": "File manager with Android folder access using Shizuku"
+  },
+  {
+    "name": "RippleFiles",
+    "category": "File management",
+    "github": "GokulSB/RippleFiles-FileManager",
+    "url": "https://github.com/GokulSB/RippleFiles-FileManager",
+    "description": "Expressive Material file manager with local and cloud storage plus Shizuku-gated Android/data access."
+  },
+  {
+    "name": "ROSE",
+    "category": "File management",
+    "github": "NarayanChetri/ROSE",
+    "url": "https://github.com/NarayanChetri/ROSE",
+    "description": "Modern file manager with Material 3 UI, archive support, recycle bin and Shizuku access to Android/data and Android/obb without root."
+  },
+  {
+    "name": "SDMaid-SE",
+    "category": "File management",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=eu.darken.sdmse",
+    "description": ""
+  },
+  {
+    "name": "sync-to-android-data",
+    "category": "File management",
+    "github": "kamren-zirger/sync-to-android-data",
+    "url": "https://github.com/kamren-zirger/sync-to-android-data",
+    "description": "Syncs files in and out of restricted Android/data folders when target apps open or close"
+  },
+  {
+    "name": "twig",
+    "category": "File management",
+    "github": "dev2ex/twig",
+    "url": "https://github.com/dev2ex/twig",
+    "description": "Size-first dual-pane file manager (~7MB) for local, archives, FTP/SFTP/SMB/WebDAV/S3/restic/Jellyfin"
+  },
+  {
+    "name": "XArchiver",
+    "category": "File management",
+    "github": "Xtra-Manager-Software/XArchiver",
+    "url": "https://github.com/Xtra-Manager-Software/XArchiver",
+    "description": "File manager with built-in archive support"
+  },
+  {
+    "name": "XFiles",
+    "category": "File management",
+    "github": "Local1stDotApp/XFiles",
+    "url": "https://github.com/Local1stDotApp/XFiles",
+    "description": "Offline file manager with root and Shizuku support for full filesystem access"
+  },
+  {
+    "name": "ZenFile",
+    "category": "File management",
+    "github": "l930203811/ZenFile",
+    "url": "https://github.com/l930203811/ZenFile",
+    "description": "NFile fork with built-in remote file server support"
+  },
+  {
+    "name": "ZhuFiler",
+    "category": "File management",
+    "github": "Artzhu86/ZhuFiler",
+    "url": "https://github.com/Artzhu86/ZhuFiler",
+    "description": "Open-source Material You file manager with archive, editor, media playback, APK handling and Shizuku-backed privileged access."
+  },
+  {
+    "name": "Ascent",
+    "category": "Games",
+    "github": "4o3F/Ascent",
+    "url": "https://github.com/4o3F/Ascent",
+    "description": "A tool for retrieving gacha history links from Mihoyo games"
+  },
+  {
+    "name": "BDroid_X",
+    "category": "Games",
+    "github": "Ark-Repoleved/BDroid_X",
+    "url": "https://github.com/Ark-Repoleved/BDroid_X",
+    "description": "Browndust II Mod manager"
+  },
+  {
+    "name": "blocktopograph",
+    "category": "Games",
+    "github": "Blocktopograph/Blocktopograph",
+    "url": "https://github.com/Blocktopograph/Blocktopograph",
+    "description": "Blocktopograph is an app server for MCBE, it includes a world, NBT editor for local worlds"
+  },
+  {
+    "name": "Cinderbox-Companion",
+    "category": "Games",
+    "github": "ObfuscatedVoid/Cinderbox-Companion",
+    "url": "https://github.com/ObfuscatedVoid/Cinderbox-Companion",
+    "description": "Companion app for Stardew Valley on Android with Steam Cloud save sync, game file download, and SMAPI mod management"
+  },
+  {
+    "name": "CloudSync-Mobile",
+    "category": "Games",
+    "github": "StardewValleyMods/CloudSync-Mobile",
+    "url": "https://github.com/StardewValleyMods/CloudSync-Mobile",
+    "description": "An app that allows you to sync your Stardew Valley saves across multiple devices"
+  },
+  {
+    "name": "HandheldExp",
+    "category": "Games",
+    "github": "Teppichseite/HandheldExp",
+    "url": "https://github.com/Teppichseite/HandheldExp",
+    "description": "In-game menu for EmulationStation (ES-DE) on Android"
+  },
+  {
+    "name": "lac-tool",
+    "category": "Games",
+    "github": "aliernfrog/lac-tool",
+    "url": "https://github.com/aliernfrog/lac-tool",
+    "description": "Manage maps, wallpapers, and screenshots for the game 'Los Angeles Crimes'"
+  },
+  {
+    "name": "linkura-localify",
+    "category": "Games",
+    "github": "ChocoLZS/linkura-localify",
+    "url": "https://github.com/ChocoLZS/linkura-localify",
+    "description": "Localization plugin for Link! Like! LoveLive! that translates game text via LLM"
+  },
+  {
+    "name": "LOModInstaller",
+    "category": "Games",
+    "github": "anyabot/LOModInstaller",
+    "url": "https://github.com/anyabot/LOModInstaller",
+    "description": "Mod manager for the game 'Last Origin'"
+  },
+  {
+    "name": "MAA-Meow",
+    "category": "Games",
+    "github": "Aliothmoon/MAA-Meow",
+    "url": "https://github.com/Aliothmoon/MAA-Meow/blob/main/README_EN.md",
+    "description": "Run MAA natively on Android for one-click Arknights daily tasks with foreground and background modes"
+  },
+  {
+    "name": "mt-en-applier",
+    "category": "Games",
+    "github": "Aikiooo/mt-en-applier",
+    "url": "https://github.com/Aikiooo/mt-en-applier",
+    "description": "One-tap installer for the unofficial English patch of the Mushoku Tensei mobile game, copying files via Shizuku with no root or PC."
+  },
+  {
+    "name": "Okkei Patcher",
+    "category": "Games",
+    "github": "solrudev/OkkeiPatcher",
+    "url": "https://github.com/solrudev/OkkeiPatcher",
+    "description": "Companion app for localizing the Android version of CHAOS;CHILD visual novel"
+  },
+  {
+    "name": "pf-tool",
+    "category": "Games",
+    "github": "aliernfrog/pf-tool",
+    "url": "https://github.com/aliernfrog/pf-tool",
+    "description": "Easily import and share Polyfield maps"
+  },
+  {
+    "name": "pogoplusle",
+    "category": "Games",
+    "github": "Mygod/pogoplusle",
+    "url": "https://github.com/Mygod/pogoplusle",
+    "description": "Skip the pairing dialog when connecting a Pokémon GO Plus"
+  },
+  {
+    "name": "ShinGen",
+    "category": "Games",
+    "github": "Shio2077/ShinGen#genshin-impact-auto-conversation-clicker-on-android",
+    "url": "https://github.com/Shio2077/ShinGen#genshin-impact-auto-conversation-clicker-on-android",
+    "description": "Genshin Impact Auto-Conversation Clicker"
+  },
+  {
+    "name": "stalker",
+    "category": "Games",
+    "github": "onerdna/stalker",
+    "url": "https://github.com/onerdna/stalker",
+    "description": "Save data viewer & editor for Shadow Fight 2"
+  },
+  {
+    "name": "translatefgo",
+    "category": "Games",
+    "github": "rayshift/translatefgo",
+    "url": "https://github.com/rayshift/translatefgo",
+    "description": "Fate/Grand Order game translation project"
+  },
+  {
+    "name": "umamusume-localify-android",
+    "category": "Games",
+    "github": "Kimjio/umamusume-localify-android",
+    "url": "https://github.com/Kimjio/umamusume-localify-android",
+    "description": "Localization module for Umamusume via Zygisk with Shizuku integration"
+  },
+  {
+    "name": "andRemote2",
+    "category": "Input methods",
+    "github": "c0dev0id/andRemote2",
+    "url": "https://github.com/c0dev0id/andRemote2",
+    "description": "Emulates the DMD Remote 2 for map apps"
+  },
+  {
+    "name": "Android-Show-Taps",
+    "category": "Input methods",
+    "github": "k3x1n/Android-Show-Taps",
+    "url": "https://github.com/k3x1n/Android-Show-Taps",
+    "description": "Show customized taps upon touches"
+  },
+  {
+    "name": "C9",
+    "category": "Input methods",
+    "github": "austinauyeung/C9",
+    "url": "https://github.com/austinauyeung/C9",
+    "description": "Efficient grid-based cursor provided alongside a traditional cursor. Shizuku is only required on Android 11."
+  },
+  {
+    "name": "GameShift",
+    "category": "Input methods",
+    "github": "tientien17/GameShift",
+    "url": "https://github.com/tientien17/GameShift",
+    "description": "Auto-switches the default home launcher when a game controller connects and restores it on disconnect, using Shizuku without root."
+  },
+  {
+    "name": "Joycon2Android",
+    "category": "Input methods",
+    "github": "JoeGeC/joycon2android",
+    "url": "https://github.com/JoeGeC/joycon2android",
+    "description": "Connects Nintendo Switch 2 Joy-Con controllers over BLE and exposes them as system-wide virtual gamepads via a Shizuku UHID relay."
+  },
+  {
+    "name": "KeyMapper",
+    "category": "Input methods",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=io.github.sds100.keymapper",
+    "description": ""
+  },
+  {
+    "name": "keysync",
+    "category": "Input methods",
+    "github": "aka-munan/keysync",
+    "url": "https://github.com/aka-munan/keysync",
+    "description": "Play games using mouse and keyboard on Android device; keymapper for games"
+  },
+  {
+    "name": "OpenMapper",
+    "category": "Input methods",
+    "github": "kinou-p/android-open-mapper",
+    "url": "https://github.com/kinou-p/android-open-mapper",
+    "description": "Free open-source gamepad keymapper using Shizuku for touch injection with sub-millisecond latency; alternative to Mantis and Panda."
+  },
+  {
+    "name": "pastiera",
+    "category": "Input methods",
+    "github": "palsoftware/pastiera",
+    "url": "https://github.com/palsoftware/pastiera",
+    "description": "Android keyboard specialized for Physical Keyboard Devices. Uses Shizuku for trackpad gestures"
+  },
+  {
+    "name": "Steam Controller for Android",
+    "category": "Input methods",
+    "github": "SonicDX12/SteamController-Android",
+    "url": "https://github.com/SonicDX12/SteamController-Android",
+    "description": "Uses the Steam Controller 2026 as a real Android gamepad via Shizuku-backed Linux uinput; USB, dongle or BLE."
+  },
+  {
+    "name": "TitanPad",
+    "category": "Input methods",
+    "github": "sztupy/TitanPad",
+    "url": "https://github.com/sztupy/TitanPad",
+    "description": "Converts the Titan2's Physical Keyboard's capacitive input into mouse and scroll gestures. Uses Shizuku for reading the trackpad input and setting up virtual HID devices"
+  },
+  {
+    "name": "XtMapper",
+    "category": "Input methods",
+    "github": "Xtr126/XtMapper",
+    "url": "https://github.com/Xtr126/XtMapper",
+    "description": "Keymapper for Android x86"
+  },
+  {
+    "name": "AuroraDroid",
+    "category": "Installer & app stores",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.aurora.adroid/",
+    "description": "FOSS F-Droid client with silent installs via Shizuku/root and automatic updates `GPL-3.0` [(Source code)](https://gitlab.com/AuroraOSS/auroradroid)"
+  },
+  {
+    "name": "AuroraStore",
+    "category": "Installer & app stores",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.aurora.store/",
+    "description": "An open-source alternative to Google Play Store with privacy and modern design `GPL-3.0` [(Source code)](https://gitlab.com/AuroraOSS/AuroraStore)"
+  },
+  {
+    "name": "BHub",
+    "category": "Installer & app stores",
+    "github": "B1ays/BHub",
+    "url": "https://github.com/B1ays/BHub",
+    "description": "Download, install and share mods easily"
+  },
+  {
+    "name": "Droid-ify",
+    "category": "Installer & app stores",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.looker.droidify/",
+    "description": "Material F-Droid client `GPL-3.0` [(Source code)](https://github.com/Droid-ify/client)"
+  },
+  {
+    "name": "ffupdater",
+    "category": "Installer & app stores",
+    "github": "",
+    "url": "https://f-droid.org/packages/de.marmaro.krt.ffupdater/",
+    "description": "FFUpdater: Updater for privacy-friendly browser `GPL-3.0` [(Source code)](https://github.com/Tobi823/ffupdater)"
+  },
+  {
+    "name": "florid",
+    "category": "Installer & app stores",
+    "github": "Nandanrmenon/florid",
+    "url": "https://github.com/Nandanrmenon/florid",
+    "description": "Material3 F‑Droid Client"
+  },
+  {
+    "name": "GitHub-Store",
+    "category": "Installer & app stores",
+    "github": "",
+    "url": "https://f-droid.org/packages/zed.rainxch.githubstore/",
+    "description": "App store for GitHub releases with discovery function `Apache-2.0` [(Source code)](https://github.com/kurikomi-labs/komi-store)"
+  },
+  {
+    "name": "instafel",
+    "category": "Installer & app stores",
+    "github": "mamiiblt/instafel",
+    "url": "https://github.com/mamiiblt/instafel",
+    "description": "Updater app for Instafel, an Instagram mod"
+  },
+  {
+    "name": "InstallerX-Revived",
+    "category": "Installer & app stores",
+    "github": "wxxsfxyzm/InstallerX-Revived",
+    "url": "https://github.com/wxxsfxyzm/InstallerX-Revived",
+    "description": ""
+  },
+  {
+    "name": "InstallWithOptions",
+    "category": "Installer & app stores",
+    "github": "zacharee/InstallWithOptions",
+    "url": "https://github.com/zacharee/InstallWithOptions",
+    "description": "Simple-ish app using Shizuku to install APKs on-device with advanced options"
+  },
+  {
+    "name": "IzzyOnDroid",
+    "category": "Installer & app stores",
+    "github": "",
+    "url": "https://gitlab.com/sunilpaulmathew/izzyondroid",
+    "description": "An unofficial client for IzzyOnDroid F-Droid Repository"
+  },
+  {
+    "name": "multistore",
+    "category": "Installer & app stores",
+    "github": "FedeFluork/multistore",
+    "url": "https://github.com/FedeFluork/multistore",
+    "description": "Aggregates third-party app stores into one catalogue to search, compare, download, and update APKs"
+  },
+  {
+    "name": "Neo-Store",
+    "category": "Installer & app stores",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.machiav3lli.fdroid/",
+    "description": "An F-Droid client with modern UI and an arsenal of extra features `GPL-3.0` [(Source code)](https://github.com/NeoApplications/Neo-Store)"
+  },
+  {
+    "name": "Obtainium",
+    "category": "Installer & app stores",
+    "github": "ImranR98/Obtainium",
+    "url": "https://github.com/ImranR98/Obtainium",
+    "description": "Get Android App Updates Directly From the Source"
+  },
+  {
+    "name": "Orion Store",
+    "category": "Installer & app stores",
+    "github": "RookieEnough/Orion-Store",
+    "url": "https://github.com/RookieEnough/Orion-Store",
+    "description": "App store for modded apps"
+  },
+  {
+    "name": "PI",
+    "category": "Installer & app stores",
+    "github": "SanmerApps/PI",
+    "url": "https://github.com/SanmerApps/PI",
+    "description": "Package installer that allows overwriting the package requester and executor"
+  },
+  {
+    "name": "SAI",
+    "category": "Installer & app stores",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.aefyr.sai.fdroid/",
+    "description": "Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)"
+  },
+  {
+    "name": "ShizuCoreFetch",
+    "category": "Installer & app stores",
+    "github": "elhizazi1/ShizuCoreFetch",
+    "url": "https://github.com/elhizazi1/ShizuCoreFetch",
+    "description": "Shizuku-powered app manager with silent installs, updates, and batch operations"
+  },
+  {
+    "name": "Shizuku Package Installer",
+    "category": "Installer & app stores",
+    "github": "vvb2060/PackageInstaller",
+    "url": "https://github.com/vvb2060/PackageInstaller",
+    "description": "A lightweight app installer replacement with split APK support"
+  },
+  {
+    "name": "universal-installer",
+    "category": "Installer & app stores",
+    "github": "pass-with-high-score/universal-installer",
+    "url": "https://github.com/pass-with-high-score/universal-installer",
+    "description": "Install and manage APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning"
+  },
+  {
+    "name": "AppBooster",
+    "category": "Miscellaneous",
+    "github": "androidexpert35/AppBooster",
+    "url": "https://github.com/androidexpert35/AppBooster",
+    "description": "GUI for Android's builtin `dex2oat` utility, allowing DEX code of installed apps to be re-optimized"
+  },
+  {
+    "name": "CaptureCap",
+    "category": "Miscellaneous",
+    "github": "yepgoryo/CaptureCap",
+    "url": "https://github.com/yepgoryo/CaptureCap",
+    "description": "Screen and audio recording and streaming app, no root required"
+  },
+  {
+    "name": "HiddenAlarmRevealer",
+    "category": "Miscellaneous",
+    "github": "AhmetCanArslan/HiddenAlarmRevealer",
+    "url": "https://github.com/AhmetCanArslan/HiddenAlarmRevealer",
+    "description": "Find the reason why the alarm icon is active in the status bar"
+  },
+  {
+    "name": "krude",
+    "category": "Miscellaneous",
+    "github": "KusStar/krude",
+    "url": "https://github.com/KusStar/krude",
+    "description": "All-in-one app and workflow launcher. Uses Shizuku for process killing and file management"
+  },
+  {
+    "name": "Mafza",
+    "category": "Miscellaneous",
+    "github": "yshalsager/Mafza",
+    "url": "https://github.com/yshalsager/Mafza",
+    "description": "Emergency actions runner with one configurable profile, external emergency triggers, and a safe Dry Run mode"
+  },
+  {
+    "name": "NotiFixer",
+    "category": "Miscellaneous",
+    "github": "dkajan19/NotiFixer",
+    "url": "https://github.com/dkajan19/NotiFixer",
+    "description": "Android utility to make notifications persistent/undismissable using Shizuku"
+  },
+  {
+    "name": "OnStop2FinishAndRemoveTask",
+    "category": "Miscellaneous",
+    "github": "takusan23/OnStop2FinishAndRemoveTask",
+    "url": "https://github.com/takusan23/OnStop2FinishAndRemoveTask",
+    "description": "Automatically close selected apps when you exit them to save power and memory"
+  },
+  {
+    "name": "overlay-translator",
+    "category": "Miscellaneous",
+    "github": "ciddwd/overlay-translator",
+    "url": "https://github.com/ciddwd/overlay-translator",
+    "description": "Real-time on-screen translator for games, visual novels, and manga with on-device/cloud OCR and floating overlay"
+  },
+  {
+    "name": "PoC-Deployer-System",
+    "category": "Miscellaneous",
+    "github": "wqry085/PoC-Deployer-System",
+    "url": "https://github.com/wqry085/PoC-Deployer-System",
+    "description": "Exploits CVE-2024-31317 for Zygote injection, integrating remote terminal and file transfer capabilities"
+  },
+  {
+    "name": "SimpleWear",
+    "category": "Miscellaneous",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=com.thewizrd.simplewear",
+    "description": "A simple app for controlling your Android devices from your WearOS watch `Apache-2.0` [(Source code)](https://github.com/SimpleAppProjects/SimpleWear)"
+  },
+  {
+    "name": "telegram-rc",
+    "category": "Miscellaneous",
+    "github": "telegram-sms/telegram-rc",
+    "url": "https://github.com/telegram-sms/telegram-rc",
+    "description": "Remote control your device via Telegram messages"
+  },
+  {
+    "name": "ADNS",
+    "category": "Network",
+    "github": "eyalm2000/adns",
+    "url": "https://github.com/eyalm2000/adns",
+    "description": "DNS-based ad blocker for Android"
+  },
+  {
+    "name": "Bluetooth Bouncer",
+    "category": "Network",
+    "github": "harvzor/android-bluetooth-bouncer",
+    "url": "https://github.com/harvzor/android-bluetooth-bouncer",
+    "description": "Per-device Bluetooth auto-connect control that stays paired; policy enforced via Shizuku user service."
+  },
+  {
+    "name": "CellReader",
+    "category": "Network",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=dev.zwander.cellreader",
+    "description": ""
+  },
+  {
+    "name": "de1984",
+    "category": "Network",
+    "github": "dorumrr/de1984",
+    "url": "https://github.com/dorumrr/de1984",
+    "description": "App firewall without using an VPN; can also manage packages"
+  },
+  {
+    "name": "delta",
+    "category": "Network",
+    "github": "supershadoe/delta",
+    "url": "https://github.com/supershadoe/delta",
+    "description": "Hotspot manager using Shizuku"
+  },
+  {
+    "name": "Dolphy-App",
+    "category": "Network",
+    "github": "unvoiddd/Dolphy-App",
+    "url": "https://github.com/unvoiddd/Dolphy-App",
+    "description": "NFC, BLE, and IR multi-tool for wireless protocol research"
+  },
+  {
+    "name": "EasySpot",
+    "category": "Network",
+    "github": "EasySpotApp/EasySpot",
+    "url": "https://github.com/EasySpotApp/EasySpot",
+    "description": "An app that allows you to turn on your hotspot remotely via Bluetooth - think Apple Continuity, but for everyone"
+  },
+  {
+    "name": "FindMyDevice",
+    "category": "Network",
+    "github": "",
+    "url": "https://gitlab.com/fmd-foss/fmd-android",
+    "description": "Secure & open-source alternative to Google's FindMyDevice service."
+  },
+  {
+    "name": "FireWall Blocks",
+    "category": "Network",
+    "github": "shynoiddev/FireWall-Blocks",
+    "url": "https://github.com/shynoiddev/FireWall-Blocks",
+    "description": "Dual-mode firewall: blocks internet access using Shizuku or a standard local VPN interface or both."
+  },
+  {
+    "name": "hikari-adblock",
+    "category": "Network",
+    "github": "codegeasse1/hikari-adblock",
+    "url": "https://github.com/codegeasse1/hikari-adblock",
+    "description": "No-root ad/tracker/malware blocker with local VPN DNS filter plus Shizuku iptables/nftables firewall modes"
+  },
+  {
+    "name": "Hostman",
+    "category": "Network",
+    "github": "LinZong/Hostman",
+    "url": "https://github.com/LinZong/Hostman",
+    "description": ""
+  },
+  {
+    "name": "NaiveproxyForAndroid",
+    "category": "Network",
+    "github": "Dobiec/NaiveproxyForAndroid",
+    "url": "https://github.com/Dobiec/NaiveproxyForAndroid",
+    "description": "A simple application to run Naiveproxy on Android"
+  },
+  {
+    "name": "NetToggle",
+    "category": "Network",
+    "github": "Dhangofa/NetToggle",
+    "url": "https://github.com/Dhangofa/NetToggle",
+    "description": "A lightweight Android Quick Settings tile to force 5G Only, 4G Only and preferred network modes using Root or Shizuku"
+  },
+  {
+    "name": "NetSwitcher",
+    "category": "Network",
+    "github": "nd4y/netswitcher",
+    "url": "https://github.com/nd4y/netswitcher",
+    "description": "Fast Wi-Fi, mobile-data and Ethernet switching via app, shortcut, widget or QS tile using Shizuku or root."
+  },
+  {
+    "name": "NetworkSwitch",
+    "category": "Network",
+    "github": "aunchagaonkar/NetworkSwitch",
+    "url": "https://github.com/aunchagaonkar/NetworkSwitch",
+    "description": "Android app for 4G/5G network mode switching"
+  },
+  {
+    "name": "RKNHardering",
+    "category": "Network",
+    "github": "xtclovver/RKNHardering",
+    "url": "https://github.com/xtclovver/RKNHardering",
+    "description": "Detects VPN/proxy circumvention tooling on-device using community-verified checks, with privileged probes via Shizuku or Root."
+  },
+  {
+    "name": "ShizuWall",
+    "category": "Network",
+    "github": "AhmetCanArslan/ShizuWall",
+    "url": "https://github.com/AhmetCanArslan/ShizuWall",
+    "description": ""
+  },
+  {
+    "name": "Shizzi",
+    "category": "Network",
+    "github": "carlelieser/shizzi",
+    "url": "https://github.com/carlelieser/shizzi",
+    "description": "Rootless Wi-Fi tethering bypass via Shizuku"
+  },
+  {
+    "name": "sing-box",
+    "category": "Network",
+    "github": "",
+    "url": "https://f-droid.org/packages/io.nekohasekai.sfa/",
+    "description": "Universal proxy platform. Uses Shizuku for per-app proxying `GPL-3.0` [(Source code)](https://github.com/SagerNet/sing-box)"
+  },
+  {
+    "name": "Traffic Light",
+    "category": "Network",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=com.leekleak.trafficlight",
+    "description": "A persistent network speed tracker in your status bar `GPL-3.0` [(Source code)](https://github.com/leekleak/traffic-light)"
+  },
+  {
+    "name": "WG Tunnel",
+    "category": "Network",
+    "github": "wgtunnel/android",
+    "url": "https://github.com/wgtunnel/android",
+    "description": "A FOSS Android client for WireGuard and AmneziaWG with auto-tunneling."
+  },
+  {
+    "name": "wifi-password-manager",
+    "category": "Network",
+    "github": "Khh-vu/wifi-password-manager",
+    "url": "https://github.com/Khh-vu/wifi-password-manager",
+    "description": "Simple app using Shizuku to manage & view saved Wi-Fi passwords"
+  },
+  {
+    "name": "WiFi Portal",
+    "category": "Network",
+    "github": "lovitus/wifiportal",
+    "url": "https://github.com/lovitus/wifiportal",
+    "description": "Applies captive-portal probe settings via Shizuku UserService with backup, verify-before-write and regional presets."
+  },
+  {
+    "name": "WiFiList",
+    "category": "Network",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=tk.zwander.wifilist",
+    "description": ""
+  },
+  {
+    "name": "LSPatch",
+    "category": "Patching",
+    "github": "JingMatrix/LSPatch",
+    "url": "https://github.com/JingMatrix/LSPatch",
+    "description": "A non-root Xposed framework extending from LSPosed"
+  },
+  {
+    "name": "Morphe",
+    "category": "Patching",
+    "github": "",
+    "url": "https://morphe.software/",
+    "description": "User-friendly YouTube patcher based on Universal-ReVanced-Manager `GPL-3.0` [(Source code)](https://github.com/MorpheApp/morphe-manager)"
+  },
+  {
+    "name": "Universal-ReVanced-Manager",
+    "category": "Patching",
+    "github": "Jman-Github/Universal-ReVanced-Manager",
+    "url": "https://github.com/Jman-Github/Universal-ReVanced-Manager",
+    "description": "ReVanced patcher that has extra features the official manager doesn't have"
+  },
+  {
+    "name": "Amply",
+    "category": "Power management",
+    "github": "d4rken-org/amply",
+    "url": "https://github.com/d4rken-org/amply",
+    "description": "Easy control of charging limits. Temporarily allows one full charge, then automatically restores your protective charge limit"
+  },
+  {
+    "name": "BatStats",
+    "category": "Power management",
+    "github": "mlm-games/BatStats",
+    "url": "https://github.com/mlm-games/BatStats",
+    "description": "Battery monitor with stats via Shizuku"
+  },
+  {
+    "name": "Batt",
+    "category": "Power management",
+    "github": "",
+    "url": "https://gitlab.com/narektor/batt",
+    "description": "A simple app that shows battery status information on Android 14 and later."
+  },
+  {
+    "name": "Battery-Monitor",
+    "category": "Power management",
+    "github": "tswistak/Battery-Monitor",
+    "url": "https://github.com/tswistak/Battery-Monitor",
+    "description": "Track and log battery capacity and parameters over time using Shizuku"
+  },
+  {
+    "name": "battery-stats-changer",
+    "category": "Power management",
+    "github": "superisuer/battery-stats-changer",
+    "url": "https://github.com/superisuer/battery-stats-changer",
+    "description": "Open source app to visually change battery data via Shizuku"
+  },
+  {
+    "name": "EnforceDoze",
+    "category": "Power management",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.akylas.enforcedoze/",
+    "description": "Enable Doze mode immediately after screen off and turn off motion sensing to get best battery life `GPL-3.0` [(Source code)](https://github.com/Akylas/EnforceDoze)"
+  },
+  {
+    "name": "NoMoreBackground",
+    "category": "Power management",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.adilhanney.no_more_background/",
+    "description": "A fire-and-forget program to stop Android apps from running in the background `GPL-3.0` [(Source code)](https://github.com/adil192/no_more_background)"
+  },
+  {
+    "name": "RebootNya",
+    "category": "Power management",
+    "github": "daisukiKaffuChino/RebootNya",
+    "url": "https://github.com/daisukiKaffuChino/RebootNya",
+    "description": "Advanced reboot menu with Shizuku support"
+  },
+  {
+    "name": "ScreenOff",
+    "category": "Power management",
+    "github": "WuDi-ZhanShen/ScreenOff",
+    "url": "https://github.com/WuDi-ZhanShen/ScreenOff",
+    "description": "Turn off your Android's screen without entering standby/sleep mode"
+  },
+  {
+    "name": "sleep-timer",
+    "category": "Power management",
+    "github": "Xitee1/sleep-timer",
+    "url": "https://github.com/Xitee1/sleep-timer",
+    "description": "Sleep timer that can pause media, and turn off WIFI/Bluetooth/Display"
+  },
+  {
+    "name": "USB PD Bypass",
+    "category": "Power management",
+    "github": "ONDER1E/usbpdbs",
+    "url": "https://github.com/ONDER1E/usbpdbs",
+    "description": "Toggles USB PD battery-bypass mode at charge thresholds via Shizuku with self-healing recovery."
+  },
+  {
+    "name": "volt",
+    "category": "Power management",
+    "github": "lebiggg/volt",
+    "url": "https://github.com/lebiggg/volt",
+    "description": "Greenify successor: scored app hibernation with UnifiedPush wake-on-push via Shizuku"
+  },
+  {
+    "name": "wakelogs",
+    "category": "Power management",
+    "github": "dernikiausd/wakelogs",
+    "url": "https://github.com/dernikiausd/wakelogs",
+    "description": "Analyzes display wakeups, CPU activity, alarms and device rest with Shizuku-based system diagnostics."
+  },
+  {
+    "name": "zukulock",
+    "category": "Power management",
+    "github": "tiendnm/zukulock",
+    "url": "https://github.com/tiendnm/zukulock",
+    "description": "Very lightweight app that locks the screen when launched. Helps reduce wear on the power button"
+  },
+  {
+    "name": "Amarok-Hider",
+    "category": "Privacy",
+    "github": "",
+    "url": "https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss",
+    "description": "Hide your private files and Android apps with just one click `Apache-2.0` [(Source code)](https://github.com/deltazefiro/Amarok-Hider)"
+  },
+  {
+    "name": "AntiForensic-Tools",
+    "category": "Privacy",
+    "github": "bakad3v/Android-AntiForensic-Tools",
+    "url": "https://github.com/bakad3v/Android-AntiForensic-Tools",
+    "description": "An application designed to silently protect user data from powerful adversaries"
+  },
+  {
+    "name": "anubis",
+    "category": "Privacy",
+    "github": "sogonov/anubis",
+    "url": "https://github.com/sogonov/anubis",
+    "description": "App manager that freezes/unfreezes app groups based on VPN state via Shizuku pm disable, so frozen apps cannot detect or bypass the VPN."
+  },
+  {
+    "name": "AppLock",
+    "category": "Privacy",
+    "github": "aload0/AppLock",
+    "url": "https://github.com/aload0/AppLock",
+    "description": ""
+  },
+  {
+    "name": "Privacify",
+    "category": "Privacy",
+    "github": "robinsrk/privacify",
+    "url": "https://github.com/robinsrk/privacify",
+    "description": "Privacy control center: permission scanner, sensor-usage timeline and privacy score, with Root/Shizuku advanced hardware controls."
+  },
+  {
+    "name": "PrivacyFlip",
+    "category": "Privacy",
+    "github": "",
+    "url": "https://f-droid.org/packages/io.github.dorumrr.privacyflip/",
+    "description": "Manage your device privacy based on lock/unlock state `MIT` [(Source code)](https://github.com/dorumrr/privacyflip)"
+  },
+  {
+    "name": "Blink",
+    "category": "Productivity",
+    "github": "character-flat/Blink",
+    "url": "https://github.com/character-flat/Blink",
+    "description": "A persistent, highly customizable 20-20-20 rule eye-care timer that uses Shizuku to whitelist itself from Android's battery optimizations"
+  },
+  {
+    "name": "DetoxDroid",
+    "category": "Productivity",
+    "github": "flxapps/DetoxDroid",
+    "url": "https://github.com/flxapps/DetoxDroid",
+    "description": "Digital Detoxing: Use your phone rather than letting your phone use you"
+  },
+  {
+    "name": "Curbox",
+    "category": "Productivity",
+    "github": "",
+    "url": "https://f-droid.org/packages/neth.iecal.curbox/",
+    "description": ""
+  },
+  {
+    "name": "HyperCopy",
+    "category": "Productivity",
+    "github": "1812z/HyperCopy",
+    "url": "https://github.com/1812z/HyperCopy",
+    "description": "Clipboard-to-app jump tool watching copied links and opening them directly in the right app via Shizuku or LSPosed monitoring."
+  },
+  {
+    "name": "input-leaf",
+    "category": "Productivity",
+    "github": "anasvhora284/input-leaf",
+    "url": "https://github.com/anasvhora284/input-leaf",
+    "description": "Android client for Input Leap/Deskflow: control your phone with your PC mouse and keyboard over LAN using Shizuku input injection, no root."
+  },
+  {
+    "name": "Sefirah",
+    "category": "Productivity",
+    "github": "shrimqy/Sefirah-Android",
+    "url": "https://github.com/shrimqy/Sefirah-Android",
+    "description": "Windows-Android integration for clipboard, notification, file, SMS and call sync; Shizuku enables clipboard on Android 10+."
+  },
+  {
+    "name": "AlwaysOnDisplayToggle",
+    "category": "Quick settings",
+    "github": "",
+    "url": "https://f-droid.org/packages/org.alberto97.aodtoggle/",
+    "description": "An Android quick setting to toggle Always on Display `MIT` [(Source code)](https://github.com/Alberto97/AlwaysOnDisplayToggle)"
+  },
+  {
+    "name": "Better Internet Tiles",
+    "category": "Quick settings",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=be.casperverswijvelt.unifiedinternetqs",
+    "description": "Bring back Wi-Fi and mobile data tiles on Android 12 or higher + a better-unified internet tile `GPL-3.0` [(Source code)](https://github.com/CasperVerswijvelt/Better-Internet-Tiles)"
+  },
+  {
+    "name": "DataSimTile",
+    "category": "Quick settings",
+    "github": "Mygod/DataSimTile",
+    "url": "https://github.com/Mygod/DataSimTile",
+    "description": "Tile to switch the default mobile data SIM"
+  },
+  {
+    "name": "DisplayToggle",
+    "category": "Quick settings",
+    "github": "",
+    "url": "https://f-droid.org/packages/io.github.ulysseszh.displaytoggle/",
+    "description": "Provides quick settings tile and shortcuts to turn off the display without locking the screen or stopping foreground running apps `MIT` [(Source code)](https://github.com/UlyssesZh/DisplayToggle)"
+  },
+  {
+    "name": "DNS Toggle",
+    "category": "Quick settings",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.ericlowry.dnstoggle/",
+    "description": "Quick Settings tile for Private DNS toggling and configuration, with optional advanced automation. `MIT` [(Source code)](https://github.com/ELowry/DNSToggle)"
+  },
+  {
+    "name": "ManualRotate",
+    "category": "Quick settings",
+    "github": "Verisonder/ManualRotate",
+    "url": "https://github.com/Verisonder/ManualRotate",
+    "description": "Quick-settings tile switching portrait/landscape without rotating the phone; optional Shizuku override for apps that lock orientation."
+  },
+  {
+    "name": "Private DNS Quick Setting",
+    "category": "Quick settings",
+    "github": "",
+    "url": "https://apt.izzysoft.de/fdroid/index/apk/com.flashsphere.privatednsqs",
+    "description": "QS tile for toggling the private DNS setting on or off `GPL-3.0` [(Source code)](https://github.com/flashsphere/private-dns-qs)"
+  },
+  {
+    "name": "PrivateDNSAndroid",
+    "category": "Quick settings",
+    "github": "karasevm/PrivateDNSAndroid",
+    "url": "https://github.com/karasevm/PrivateDNSAndroid",
+    "description": "Quick settings tile to switch active private DNS server"
+  },
+  {
+    "name": "Quick-Tile Settings",
+    "category": "Quick settings",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.rbn.qtsettings/",
+    "description": "QS tiles for toggling USB debugging and switching private DNS hosts `GPL-3.0` [(Source code)](https://github.com/RBN-Apps/Quick-Tile-Settings)"
+  },
+  {
+    "name": "SensorsOff",
+    "category": "Quick settings",
+    "github": "LinerSRT/SensorsOff",
+    "url": "https://github.com/LinerSRT/SensorsOff",
+    "description": "Enable/Disable device sensors via quick settings"
+  },
+  {
+    "name": "AppControlX",
+    "category": "Software management",
+    "github": "risunCode/AppControl-X",
+    "url": "https://github.com/risunCode/AppControl-X",
+    "description": "Freeze, force stop, uninstall apps, change background optimization and more"
+  },
+  {
+    "name": "Blocker",
+    "category": "Software management",
+    "github": "lihenggui/blocker",
+    "url": "https://github.com/lihenggui/blocker",
+    "description": "Enable/disable Android components such as activities, services, receivers, and providers"
+  },
+  {
+    "name": "Buge App Manager",
+    "category": "Software management",
+    "github": "BugeStudioTeam/Buge-App-Manager",
+    "url": "https://github.com/BugeStudioTeam/Buge-App-Manager",
+    "description": "An app manager focusing on permission management"
+  },
+  {
+    "name": "Canta",
+    "category": "Software management",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=io.github.samolego.canta",
+    "description": "Uninstall any app without root `LGPL-3.0` [(Source code)](https://github.com/samolego/Canta)"
+  },
+  {
+    "name": "CloneCat",
+    "category": "Software management",
+    "github": "AhmetCanArslan/CloneCat",
+    "url": "https://github.com/AhmetCanArslan/CloneCat",
+    "description": "Clone and manage apps across work profile, private space, dual apps, and secondary users with home screen shortcuts"
+  },
+  {
+    "name": "Dexor",
+    "category": "Software management",
+    "github": "DeveshTone/Dexor",
+    "url": "https://github.com/DeveshTone/Dexor",
+    "description": "Ahead-of-time (AOT) bytecode compilation and dexopt runtime manager for Android applications"
+  },
+  {
+    "name": "DisabledLauncher",
+    "category": "Software management",
+    "github": "voruti/DisabledLauncher",
+    "url": "https://github.com/voruti/DisabledLauncher",
+    "description": "Android app that disables unused apps while still allowing convenient access to them"
+  },
+  {
+    "name": "FreezeYou",
+    "category": "Software management",
+    "github": "",
+    "url": "https://f-droid.org/packages/cf.playhi.freezeyou/",
+    "description": "Improve your device's speed and battery life by freezing crappy software manually or semi-automatically `Apache-2.0` [(Source code)](https://github.com/FreezeYou/FreezeYou)"
+  },
+  {
+    "name": "Guest-Manager",
+    "category": "Software management",
+    "github": "dlawoals2713/Guest-Manager",
+    "url": "https://github.com/dlawoals2713/Guest-Manager",
+    "description": "Enables hidden Guest and multi-user modes on devices where the maker disabled them, via Shizuku shell without root."
+  },
+  {
+    "name": "Hail",
+    "category": "Software management",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.aistra.hail/",
+    "description": ""
+  },
+  {
+    "name": "Insular",
+    "category": "Software management",
+    "github": "",
+    "url": "https://f-droid.org/packages/com.oasisfeng.island.fdroid/",
+    "description": "Complete FLOSS fork of Island `Apache-2.0` [(Source code)](https://gitlab.com/secure-system/Insular)"
+  },
+  {
+    "name": "Inure App Manager",
+    "category": "Software management",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=app.simple.inure.play",
+    "description": ""
+  },
+  {
+    "name": "Island",
+    "category": "Software management",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=com.oasisfeng.island",
+    "description": "Isolate and clone apps for privacy protection and parallel running `Apache-2.0` [(Source code)](https://github.com/oasisfeng/island)"
+  },
+  {
+    "name": "krude",
+    "category": "Software management",
+    "github": "KusStar/krude",
+    "url": "https://github.com/KusStar/krude",
+    "description": "All-in-one app and workflow launcher"
+  },
+  {
+    "name": "Minimal Kernel Manager",
+    "category": "Software management",
+    "github": "abhay-byte/mkm",
+    "url": "https://github.com/abhay-byte/mkm",
+    "description": "Kernel manager and system monitor with battery stats, apply-on-boot and hidden-app support via Shizuku or root."
+  },
+  {
+    "name": "MMRL",
+    "category": "Software management",
+    "github": "MMRLApp/MMRL",
+    "url": "https://github.com/MMRLApp/MMRL",
+    "description": ""
+  },
+  {
+    "name": "Package Manager",
+    "category": "Software management",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=com.smartpack.packagemanager",
+    "description": "A powerful app to manage both system and user apps `GPL-3.0` [(Source code)](https://github.com/SmartPack/PackageManager)"
+  },
+  {
+    "name": "Thor",
+    "category": "Software management",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=com.valhalla.thor",
+    "description": "App manager with freeze and install capabilities. `GPL-3.0` [(Source code)](https://github.com/trinadhthatakula/Thor)"
+  },
+  {
+    "name": "UpgradeAll",
+    "category": "Software management",
+    "github": "",
+    "url": "https://f-droid.org/packages/net.xzos.upgradeall/",
+    "description": "Check updates for Android apps, Magisk modules and more! `GPL-3.0` [(Source code)](https://github.com/DUpdateSystem/UpgradeAll)"
+  },
+  {
+    "name": "KillMyApps",
+    "category": "Task manager",
+    "github": "dedeadend/KillMyApps",
+    "url": "https://github.com/dedeadend/KillMyApps",
+    "description": "Background process killer to improve battery life and performance via Shizuku or root"
+  },
+  {
+    "name": "memhogs",
+    "category": "Task manager",
+    "github": "cicerothoma/memhogs-android",
+    "url": "https://github.com/cicerothoma/memhogs-android",
+    "description": "Which apps are eating your phone's memory. Per-app breakdown via Shizuku, helpers grouped under the app that owns them"
+  },
+  {
+    "name": "Pensum",
+    "category": "Task manager",
+    "github": "troikoss/Pensum",
+    "url": "https://github.com/troikoss/Pensum",
+    "description": ""
+  },
+  {
+    "name": "ReAppzuku",
+    "category": "Task manager",
+    "github": "gree1d/ReAppzuku",
+    "url": "https://github.com/gree1d/ReAppzuku",
+    "description": "Control and manage background applications. Fork of shappky"
+  },
+  {
+    "name": "Running Services Monitor",
+    "category": "Task manager",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=me.biplobsd.rsm",
+    "description": "Monitor running services on your Android device `MIT` [(Source code)](https://github.com/biplobsd/running_services_monitor)"
+  },
+  {
+    "name": "RvSystem Monitor",
+    "category": "Task manager",
+    "github": "Rve27/RvSystem-Monitor",
+    "url": "https://github.com/Rve27/RvSystem-Monitor",
+    "description": "High-performance system monitor (Compose + Rust) with Shizuku-fed CPU and hardware insights"
+  },
+  {
+    "name": "shappky",
+    "category": "Task manager",
+    "github": "YasserNull/shappky",
+    "url": "https://github.com/YasserNull/shappky",
+    "description": ""
+  },
+  {
+    "name": "TaskManager",
+    "category": "Task manager",
+    "github": "RohitKushvaha01/TaskManager",
+    "url": "https://github.com/RohitKushvaha01/TaskManager",
+    "description": "A Task Manager for Android. Killing processes requires root access."
+  },
+  {
+    "name": "aShell",
+    "category": "Terminals",
+    "github": "",
+    "url": "https://gitlab.com/sunilpaulmathew/ashell",
+    "description": "A local ADB shell for Shizuku-powered Android devices"
+  },
+  {
+    "name": "Haven",
+    "category": "Terminals",
+    "github": "",
+    "url": "https://f-droid.org/packages/sh.haven.app/",
+    "description": "Terminal, SSH, VNC, RDP, SFTP & cloud storage client for Android `AGPL-3.0` [(Source code)](https://github.com/GlassHaven/Haven)"
+  },
+  {
+    "name": "ReTerminal",
+    "category": "Terminals",
+    "github": "RohitKushvaha01/ReTerminal",
+    "url": "https://github.com/RohitKushvaha01/ReTerminal",
+    "description": ""
+  },
+  {
+    "name": "Always On Display",
+    "category": "Vendor-specific",
+    "github": "",
+    "url": "https://f-droid.org/packages/org.alberto97.aodtoggle/",
+    "description": "Toggle Always on Display from the quick settings panel `MIT` [(Source code)](https://github.com/Alberto97/AlwaysOnDisplayToggle)"
+  },
+  {
+    "name": "carrier-ims-for-pixel",
+    "category": "Vendor-specific",
+    "github": "ryfineZ/carrier-ims-for-pixel",
+    "url": "https://github.com/ryfineZ/carrier-ims-for-pixel",
+    "description": "Maintained Pixel IMS toolkit: tune VoLTE/VoWiFi/VoNR, 5G display and carrier config via Shizuku"
+  },
+  {
+    "name": "hilight-studio",
+    "category": "Vendor-specific",
+    "github": "DhananjayBhosale/hilight-studio",
+    "url": "https://github.com/DhananjayBhosale/hilight-studio",
+    "description": "Pixel 11 HiLight LED controller for custom notification and status light effects"
+  },
+  {
+    "name": "Pixel-IMS-5G",
+    "category": "Vendor-specific",
+    "github": "barrylk/Pixel-IMS-5G",
+    "url": "https://github.com/barrylk/Pixel-IMS-5G",
+    "description": "Enable 5G standalone (5G SA) and VoNR on Google Pixel devices"
+  },
+  {
+    "name": "pixel-volte-patch",
+    "category": "Vendor-specific",
+    "github": "kyujin-cho/pixel-volte-patch",
+    "url": "https://github.com/kyujin-cho/pixel-volte-patch/blob/main/README.en.md",
+    "description": "Enable VoLTE on Pixel 6 & 7 with LG U+"
+  },
+  {
+    "name": "PixelCarrierSettings",
+    "category": "Vendor-specific",
+    "github": "iKirby/PixelCarrierSettings",
+    "url": "https://github.com/iKirby/PixelCarrierSettings",
+    "description": "Enable VoLTE for carriers in unsupported regions on Pixel devices"
+  },
+  {
+    "name": "Root-My-Pixel",
+    "category": "Vendor-specific",
+    "github": "alex193a/Root-My-Pixel",
+    "url": "https://github.com/alex193a/Root-My-Pixel",
+    "description": "Root automation for Pixel devices via CVE-2026-43499 exploit"
+  },
+  {
+    "name": "Smartspacer",
+    "category": "Vendor-specific",
+    "github": "KieronQuinn/Smartspacer",
+    "url": "https://github.com/KieronQuinn/Smartspacer",
+    "description": "Customizable widget, can upgrade the built-in 'At a glance' widget on Pixel devices using Shizuku"
+  },
+  {
+    "name": "TurboIMS",
+    "category": "Vendor-specific",
+    "github": "Turbo1123/TurboIMS",
+    "url": "https://github.com/Turbo1123/TurboIMS",
+    "description": "Enhanced IMS Configuration Tool for Google Pixel devices"
+  },
+  {
+    "name": "Video Boost AO",
+    "category": "Vendor-specific",
+    "github": "AgusRomeroL/video-boost-ao",
+    "url": "https://github.com/AgusRomeroL/video-boost-ao",
+    "description": "Keeps Video Boost enabled on Pixel Pro cameras, re-enabling it every time the camera opens. Shizuku grants WRITE_SECURE_SETTINGS for the on-demand mode"
+  },
+  {
+    "name": "4Zones",
+    "category": "Vendor-specific",
+    "github": "mr-biz-apps/4zones",
+    "url": "https://github.com/mr-biz-apps/4zones",
+    "description": "Restores four-zone window tiling on Samsung DeX and Android desktop mode with tap-to-snap and keyboard shortcuts"
+  },
+  {
+    "name": "android-battery-health",
+    "category": "Vendor-specific",
+    "github": "willbilec/android-battery-health",
+    "url": "https://github.com/willbilec/android-battery-health",
+    "description": "Samsung battery health and cycle-count viewer with screen-reader-friendly layout via Shizuku."
+  },
+  {
+    "name": "Fonts",
+    "category": "Vendor-specific",
+    "github": "",
+    "url": "https://apt.izzysoft.de/fdroid/index/apk/com.je.fontsmanager.samsung",
+    "description": "One UI 8 rootless font installer `GPL-3.0` [(Source code)](https://codeberg.org/dryerlint/fontsmanager)"
+  },
+  {
+    "name": "Root-My-Galaxy",
+    "category": "Vendor-specific",
+    "github": "BuSung-dev/Root-My-Galaxy",
+    "url": "https://github.com/BuSung-dev/Root-My-Galaxy",
+    "description": "KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499"
+  },
+  {
+    "name": "pearity",
+    "category": "Vendor-specific",
+    "github": "thejaustin/pearity",
+    "url": "https://github.com/thejaustin/pearity",
+    "description": "Matches Samsung One UI system settings to iOS defaults one toggle at a time (three-state Android/Custom/iOS), writing secure settings via Shizuku or root."
+  },
+  {
+    "name": "SamsungRegionOverride",
+    "category": "Vendor-specific",
+    "github": "Ritel-T/SamsungRegionOverride",
+    "url": "https://github.com/Ritel-T/SamsungRegionOverride",
+    "description": "Temporarily change the SIM region seen by Galaxy Store and other region-locked apps, no root, one-tap restore"
+  },
+  {
+    "name": "SBatteryTweaks",
+    "category": "Vendor-specific",
+    "github": "pascua28/SBatteryTweaks",
+    "url": "https://github.com/pascua28/SBatteryTweaks",
+    "description": "Enable or disable fast charging mode on Samsung devices when the battery temperature reaches a certain point"
+  },
+  {
+    "name": "ScamsungFonts",
+    "category": "Vendor-specific",
+    "github": "KhunHtetzNaing/ScamsungFonts",
+    "url": "https://github.com/KhunHtetzNaing/ScamsungFonts",
+    "description": "Font manager for Samsung Galaxy (OneUI) via System shell or Root"
+  },
+  {
+    "name": "ShutterMute",
+    "category": "Vendor-specific",
+    "github": "ajebulon/ShutterMute",
+    "url": "https://github.com/ajebulon/ShutterMute",
+    "description": "Disable the forced camera shutter sounds on Samsung devices that have their CSC set to certain countries with this restriction"
+  },
+  {
+    "name": "SMTShell",
+    "category": "Vendor-specific",
+    "github": "BLuFeNiX/SMTShell",
+    "url": "https://github.com/BLuFeNiX/SMTShell",
+    "description": "Privilege escalation exploit [(CVE-2019-16253)](https://nvd.nist.gov/vuln/detail/CVE-2019-16253) to system user access (UID 1000) on non-rooted devices running up to OneUI 5. Uses Shizuku for automation"
+  },
+  {
+    "name": "ZFold-Multi-DPI",
+    "category": "Vendor-specific",
+    "github": "balamurugan15/ZFold-Multi-DPI",
+    "url": "https://github.com/balamurugan15/ZFold-Multi-DPI",
+    "description": "Applies separate screen zoom and DPI presets for the cover and inner displays of Samsung Galaxy Z Fold devices"
+  },
+  {
+    "name": "Aura",
+    "category": "Vendor-specific",
+    "github": "tgvdufuture/Aura",
+    "url": "https://github.com/tgvdufuture/Aura",
+    "description": "Custom RGB notification LED app for POCO X8 Pro with per-app, per-contact, and per-group colors and animations"
+  },
+  {
+    "name": "FiveGSwitcher",
+    "category": "Vendor-specific",
+    "github": "",
+    "url": "https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg",
+    "description": "5G shortcut switch for HyperOS/MIUI `GPL-3.0` [(Source code)](https://github.com/ysy950803/FiveGSwitcher)"
+  },
+  {
+    "name": "FxxkMIUIAd",
+    "category": "Vendor-specific",
+    "github": "qhy040404/FxxkMIUIAd",
+    "url": "https://github.com/qhy040404/FxxkMIUIAd",
+    "description": "Turn off MIUI ads with minimal cost"
+  },
+  {
+    "name": "HyperOS FCM Fix",
+    "category": "Vendor-specific",
+    "github": "dingwen07/hyperos-fcm-fix",
+    "url": "https://github.com/dingwen07/hyperos-fcm-fix",
+    "description": "Keeps Google Play services unrestricted on HyperOS so FCM push notifications arrive on time"
+  },
+  {
+    "name": "HyperOSUnfcker",
+    "category": "Vendor-specific",
+    "github": "Enki013/hyperosunfcker",
+    "url": "https://github.com/Enki013/hyperosunfcker",
+    "description": "Unlocks hidden performance, display, memory, battery, and visual settings on HyperOS/MIUI devices"
+  },
+  {
+    "name": "IslandRecorder",
+    "category": "Vendor-specific",
+    "github": "wxxsfxyzm/IslandRecorder",
+    "url": "https://github.com/wxxsfxyzm/IslandRecorder",
+    "description": "Xiaomi-focused screen recorder with Super Island controls"
+  },
+  {
+    "name": "Mi-FreeForm",
+    "category": "Vendor-specific",
+    "github": "sunshine0523/Mi-FreeForm",
+    "url": "https://github.com/sunshine0523/Mi-FreeForm",
+    "description": "Display most apps in the form of freeform on MIUI"
+  },
+  {
+    "name": "MixFlipTool",
+    "category": "Vendor-specific",
+    "github": "parallelcc/MixFlipTool",
+    "url": "https://github.com/parallelcc/MixFlipTool",
+    "description": "One-click configuration for Mix Flip's outer screen: Use any apps and restore system apps to default style"
+  },
+  {
+    "name": "mtbtool-android-app",
+    "category": "Vendor-specific",
+    "github": "h3nnes/mtbtool-android-app",
+    "url": "https://github.com/h3nnes/mtbtool-android-app",
+    "description": "Perform bandlock and edit EFS NV items on qualcomm-based Xiaomi devices without root"
+  },
+  {
+    "name": "NavigationSwitcher",
+    "category": "Vendor-specific",
+    "github": "chiyuki0325/NavigationSwitcher",
+    "url": "https://github.com/chiyuki0325/NavigationSwitcher",
+    "description": "Enable 3-button navigation in rhythm games for MIUI / HyperOS"
+  },
+  {
+    "name": "Calibrate-SoC",
+    "category": "Vendor-specific",
+    "github": "mayusi/Calibrate-SoC",
+    "url": "https://github.com/mayusi/Calibrate-SoC",
+    "description": "SoC tuner, monitor and benchmark suite for Android gaming handhelds with goal-seeking governor and live HUD."
+  },
+  {
+    "name": "ClusterTune",
+    "category": "Vendor-specific",
+    "github": "AurelioB/ClusterTune",
+    "url": "https://github.com/AurelioB/ClusterTune",
+    "description": "Tune CPU cluster frequencies to balance performance and power on AYN handheld devices"
+  },
+  {
+    "name": "flipx",
+    "category": "Vendor-specific",
+    "github": "jlgrimes/flipx",
+    "url": "https://github.com/jlgrimes/flipx",
+    "description": "Routes the home button to different launchers based on Anbernic RG Rotate hinge state"
+  },
+  {
+    "name": "GlyphBarty",
+    "category": "Vendor-specific",
+    "github": "Link2011-Act2/GlyphBarty",
+    "url": "https://github.com/Link2011-Act2/GlyphBarty",
+    "description": "Customizable Glyph visualizer for Nothing Phone with music sync, Quick Settings toggle, and charging status display"
+  },
+  {
+    "name": "Heimdall-AYN-Thor-Assistant",
+    "category": "Vendor-specific",
+    "github": "mastercook777/Heimdall-AYN-Thor-Assistant",
+    "url": "https://github.com/mastercook777/Heimdall-AYN-Thor-Assistant",
+    "description": "Lower-screen game assistant for the AYN Thor with profiles, macros, touch controls, maps and Shizuku-powered touch injection."
+  },
+  {
+    "name": "Recording-Light-Control",
+    "category": "Vendor-specific",
+    "github": "Farpathan/Recording-Light-Control",
+    "url": "https://github.com/Farpathan/Recording-Light-Control",
+    "description": "Recording Light Control gives precise control over the Nothing Phone (3)'s recording light"
+  },
+  {
+    "name": "RedTrigger",
+    "category": "Vendor-specific",
+    "github": "zampierilucas/RedTrigger",
+    "url": "https://github.com/zampierilucas/RedTrigger",
+    "description": "System-wide shoulder triggers for Nubia Red Magic phones"
+  },
+  {
+    "name": "ThorVolumeLink",
+    "category": "Vendor-specific",
+    "github": "pth2000/ThorVolumeLink",
+    "url": "https://github.com/pth2000/ThorVolumeLink",
+    "description": "Synchronized volume control for the dual displays of the AYN Thor"
+  },
+  {
+    "name": "thor-wayfinder",
+    "category": "Vendor-specific",
+    "github": "Thor-Wayfinder/thor-wayfinder",
+    "url": "https://github.com/Thor-Wayfinder/thor-wayfinder",
+    "description": "Moves apps between the two AYN Thor screens with back-button gestures"
+  },
+  {
+    "name": "android-foss",
+    "category": "Discovered via GitHub search",
+    "github": "offa/android-foss",
+    "url": "https://github.com/offa/android-foss",
+    "description": "A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy."
+  },
+  {
+    "name": "awesome-shizuku",
+    "category": "Discovered via GitHub search",
+    "github": "timschneeb/awesome-shizuku",
+    "url": "https://github.com/timschneeb/awesome-shizuku",
+    "description": "Curated list of awesome Android apps making use of Shizuku"
+  },
+  {
+    "name": "universal-android-debloater-next-generation",
+    "category": "Discovered via GitHub search",
+    "github": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device."
+  },
+  {
+    "name": "lamda",
+    "category": "Discovered via GitHub search",
+    "github": "firerpa/lamda",
+    "url": "https://github.com/firerpa/lamda",
+    "description": "Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed for multi-device clusters and engineered deployments."
+  },
+  {
+    "name": "morphe-manager",
+    "category": "Discovered via GitHub search",
+    "github": "MorpheApp/morphe-manager",
+    "url": "https://github.com/MorpheApp/morphe-manager",
+    "description": "Morphe app patcher for Android"
+  },
+  {
+    "name": "sdmaid-se",
+    "category": "Discovered via GitHub search",
+    "github": "d4rken-org/sdmaid-se",
+    "url": "https://github.com/d4rken-org/sdmaid-se",
+    "description": "SD Maid 2/SE is Android's most thorough cleaning tool."
+  },
+  {
+    "name": "Hail",
+    "category": "Discovered via GitHub search",
+    "github": "aistra0528/Hail",
+    "url": "https://github.com/aistra0528/Hail",
+    "description": "Disable / Hide / Suspend / Uninstall Android apps without root."
+  },
+  {
+    "name": "Canta",
+    "category": "Discovered via GitHub search",
+    "github": "samolego/Canta",
+    "url": "https://github.com/samolego/Canta",
+    "description": "Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, no PC required."
+  },
+  {
+    "name": "oh-my-foss-android",
+    "category": "Discovered via GitHub search",
+    "github": "xlucn/oh-my-foss-android",
+    "url": "https://github.com/xlucn/oh-my-foss-android",
+    "description": "个人收集的实用、良心开源安卓软件"
+  },
+  {
+    "name": "Aliucord",
+    "category": "Discovered via GitHub search",
+    "github": "Aliucord/Aliucord",
+    "url": "https://github.com/Aliucord/Aliucord",
+    "description": "A mod for the Discord Android App"
+  },
+  {
+    "name": "awesome-android-root",
+    "category": "Discovered via GitHub search",
+    "github": "awesome-android-root/awesome-android-root",
+    "url": "https://github.com/awesome-android-root/awesome-android-root",
+    "description": "Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides"
+  },
+  {
+    "name": "Sui",
+    "category": "Discovered via GitHub search",
+    "github": "RikkaApps/Sui",
+    "url": "https://github.com/RikkaApps/Sui",
+    "description": "Modern super user interface implementation on Android."
+  },
+  {
+    "name": "LADB",
+    "category": "Discovered via GitHub search",
+    "github": "tytydraco/LADB",
+    "url": "https://github.com/tytydraco/LADB",
+    "description": "A local ADB shell for Android!"
+  },
+  {
+    "name": "Inure",
+    "category": "Discovered via GitHub search",
+    "github": "Hamza417/Inure",
+    "url": "https://github.com/Hamza417/Inure",
+    "description": "An elegant and beautiful premium Android app manager with Root and Shizuku support, a built-in terminal, analytics, virustotal, debloat, stats and various other features with a custom theme engine, developed with purely custom UI design and reproducible build."
+  },
+  {
+    "name": "uTag",
+    "category": "Discovered via GitHub search",
+    "github": "KieronQuinn/uTag",
+    "url": "https://github.com/KieronQuinn/uTag",
+    "description": "Use Samsung Galaxy SmartTags on any Android device"
+  },
+  {
+    "name": "Awesome-Android-TV-FOSS-Apps",
+    "category": "Discovered via GitHub search",
+    "github": "Generator/Awesome-Android-TV-FOSS-Apps",
+    "url": "https://github.com/Generator/Awesome-Android-TV-FOSS-Apps",
+    "description": "A curated list of FOSS Android TV apps"
+  },
+  {
+    "name": "AxManager",
+    "category": "Discovered via GitHub search",
+    "github": "fahrez182/AxManager",
+    "url": "https://github.com/fahrez182/AxManager",
+    "description": "AxManager is an Android application designed to provide deeper control over apps and the system."
+  },
+  {
+    "name": "curbox-android",
+    "category": "Discovered via GitHub search",
+    "github": "curbox-app/curbox-android",
+    "url": "https://github.com/curbox-app/curbox-android",
+    "description": "Free Open Source App & Website Blocker"
+  },
+  {
+    "name": "android-wifi-pojie",
+    "category": "Discovered via GitHub search",
+    "github": "bszapp/android-wifi-pojie",
+    "url": "https://github.com/bszapp/android-wifi-pojie",
+    "description": "Android使用密码本暴力破解wifi密码工具"
+  },
+  {
+    "name": "shevery",
+    "category": "Discovered via GitHub search",
+    "github": "HmnDev-Tech/shevery",
+    "url": "https://github.com/HmnDev-Tech/shevery",
+    "description": "Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements."
+  },
+  {
+    "name": "ShizukuPlus",
+    "category": "Discovered via GitHub search",
+    "github": "thejaustin/ShizukuPlus",
+    "url": "https://github.com/thejaustin/ShizukuPlus",
+    "description": "An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps."
+  },
+  {
+    "name": "vyxel-apps",
+    "category": "Discovered via GitHub search",
+    "github": "NikhilKain/vyxel-apps",
+    "url": "https://github.com/NikhilKain/vyxel-apps",
+    "description": "Open-source GitHub-powered Android app store"
+  },
+  {
+    "name": "kiosk-satellite",
+    "category": "Discovered via GitHub search",
+    "github": "jxlarrea/kiosk-satellite",
+    "url": "https://github.com/jxlarrea/kiosk-satellite",
+    "description": "Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up."
+  },
+  {
+    "name": "LSFG-Android",
+    "category": "Discovered via GitHub search",
+    "github": "FrankBarretta/LSFG-Android",
+    "url": "https://github.com/FrankBarretta/LSFG-Android",
+    "description": "Lossless Scaling Frames Generator (LSFG) Application for Android"
+  }
+]
