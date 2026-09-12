@@ -4,7 +4,7 @@ All Shizuku-enabled Android apps in one place: a browsable catalog now, a real F
 
 ## Browse (works today)
 
-- [CATALOG.md](CATALOG.md) — 354 apps grouped by category
+- [CATALOG.md](CATALOG.md) — 387 apps grouped by category
 - [apps.json](apps.json) — same data, machine-readable
 
 ## Add to F-Droid (in progress)
@@ -15,6 +15,7 @@ A signed `index-v1.json` repo (fdroidserver metadata per app: package name, vers
 
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) — curated base list (327 apps)
 - GitHub search (`shizuku` in name/description/readme) — extra apps beyond the list, under "Discovered via GitHub search"
+- Targeted sweeps: AI agents, shell/terminal, Samsung, optimization/debloat, audio/DSP/EQ (60 extra apps)
 
 ## Auto-update
 
