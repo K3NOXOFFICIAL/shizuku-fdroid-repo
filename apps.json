@@ -2476,5 +2476,152 @@
     "github": "FrankBarretta/LSFG-Android",
     "url": "https://github.com/FrankBarretta/LSFG-Android",
     "description": "Lossless Scaling Frames Generator (LSFG) Application for Android"
+  },
+  {
+    "name": "zafiro",
+    "category": "AI",
+    "github": "niki914/zafiro",
+    "url": "https://github.com/niki914/zafiro",
+    "description": "Open-source BYOK AI agent for Android. Full phone control, native Shell & Python 3, with Skills and MCP support. Works via Shizuku."
+  },
+  {
+    "name": "AndroidHarness",
+    "category": "AI",
+    "github": "Sanuu7/AndroidHarness",
+    "url": "https://github.com/Sanuu7/AndroidHarness",
+    "description": "Native AI coding agent harness app for Android with Shizuku support."
+  },
+  {
+    "name": "yachiyo-claw",
+    "category": "AI",
+    "github": "Wayne1145/yachiyo-claw",
+    "url": "https://github.com/Wayne1145/yachiyo-claw",
+    "description": "Open-source Android AI chat, on-device agent, local models, Live2D, Skills, MCP, and Vibe Coding."
+  },
+  {
+    "name": "MistConnect",
+    "category": "AI",
+    "github": "rejian2022/MistConnect",
+    "url": "https://github.com/rejian2022/MistConnect",
+    "description": "Android MCP bridge: phone state, UI control, Shizuku shell tools for AI agents."
+  },
+  {
+    "name": "BetterAIChat",
+    "category": "AI",
+    "github": "Verlintas/BetterAIChat",
+    "url": "https://github.com/Verlintas/BetterAIChat",
+    "description": "Native Android AI agent: own API keys (OpenAI/Anthropic/Gemini), opencode-style modes, Shizuku shell, screen analysis."
+  },
+  {
+    "name": "GoldenAgent",
+    "category": "AI",
+    "github": "papyloking-max/GoldenAgent",
+    "url": "https://github.com/papyloking-max/GoldenAgent",
+    "description": "AI-powered automation agent for Android: ReAct, MCP, shell/ADB/Shizuku/Termux/SSH, Ollama/OpenAI/Anthropic/Gemini."
+  },
+  {
+    "name": "Bauhinia-AI-Agent",
+    "category": "AI",
+    "github": "jianghulun123/Bauhinia-AI-Agent",
+    "url": "https://github.com/jianghulun123/Bauhinia-AI-Agent",
+    "description": "Flutter-based on-device AI agent with multi-turn tool calls, memory system, Skill orchestration and Shizuku ops."
+  },
+  {
+    "name": "ziweixing",
+    "category": "AI",
+    "github": "xiaozhe7772222/ziweixing",
+    "url": "https://github.com/xiaozhe7772222/ziweixing",
+    "description": "Human-like Android phone automation agent, works with any AI app."
+  },
+  {
+    "name": "android-agent",
+    "category": "AI",
+    "github": "XuNing2/android-agent",
+    "url": "https://github.com/XuNing2/android-agent",
+    "description": "Safety-first Android AI system administrator with a typed Shizuku capability broker."
+  },
+  {
+    "name": "ZF-Android-Agent",
+    "category": "AI",
+    "github": "mzf1378197541/ZF-Android-Agent",
+    "url": "https://github.com/mzf1378197541/ZF-Android-Agent",
+    "description": "Phone-native Android AI agent with native tools, Root/Shizuku, accessibility automation and optional Linux workspace."
+  },
+  {
+    "name": "browser-agent",
+    "category": "AI",
+    "github": "Lumjiel/browser-agent",
+    "url": "https://github.com/Lumjiel/browser-agent",
+    "description": "Remote browser automation for AI agents on Android. Termux + XBrowser + Shizuku."
+  },
+  {
+    "name": "termux-shizuku",
+    "category": "AI",
+    "github": "xvxv-stack7/termux-shizuku",
+    "url": "https://github.com/xvxv-stack7/termux-shizuku",
+    "description": "AI agent control of Android without root via wireless debugging + Termux."
+  },
+  {
+    "name": "libterm",
+    "category": "Shell / terminal",
+    "github": "niki914/libterm",
+    "url": "https://github.com/niki914/libterm",
+    "description": "Kotlin-first Android terminal library spanning Su, Shizuku, and SSH sessions."
+  },
+  {
+    "name": "TDA Mox",
+    "category": "Shell / terminal",
+    "github": "TDA-Android/TDA-Mox",
+    "url": "https://github.com/TDA-Android/TDA-Mox",
+    "description": "Local ADB Shell & wireless debugging terminal for system commands and Toybox utilities."
+  },
+  {
+    "name": "VibeX Rish Shell",
+    "category": "Shell / terminal",
+    "github": "xashdevelopment/vibeX-rish-shell",
+    "url": "https://github.com/xashdevelopment/vibeX-rish-shell",
+    "description": "Android Shizuku terminal app (Rish shell)."
+  },
+  {
+    "name": "android-claude-code-mcp-server",
+    "category": "Shell / terminal",
+    "github": "celaya-solutions/android-claude-code-mcp-server",
+    "url": "https://github.com/celaya-solutions/android-claude-code-mcp-server",
+    "description": "MCP server driving Android via adb + SSH + Shizuku; runs Claude Code on-device."
+  },
+  {
+    "name": "Canta-debloater",
+    "category": "Samsung",
+    "github": "johakovi/Canta-debloater",
+    "url": "https://github.com/johakovi/Canta-debloater",
+    "description": "Debloat list for Samsung OneUI 8.5, works on other Android systems too."
+  },
+  {
+    "name": "wireless-debug-tile",
+    "category": "Samsung",
+    "github": "clearcmos/wireless-debug-tile",
+    "url": "https://github.com/clearcmos/wireless-debug-tile",
+    "description": "Quick Settings tile toggling wireless debugging; handy on One UI."
+  },
+  {
+    "name": "Debloater-next",
+    "category": "Optimization",
+    "github": "Dev97633/Debloater-next",
+    "url": "https://github.com/Dev97633/Debloater-next",
+    "description": "Safe open-source Android debloater using Shizuku, no root required."
+  },
+  {
+    "name": "Gamaspace",
+    "category": "Optimization",
+    "github": "coco0081/Gamaspace",
+    "url": "https://github.com/coco0081/Gamaspace",
+    "description": "Game optimization app with Shizuku support: RAM, CPU, GPU, battery optimization and game launcher."
+  },
+  {
+    "name": "qidi",
+    "category": "Optimization",
+    "github": "iaakki/qidi",
+    "url": "https://github.com/iaakki/qidi",
+    "description": "Shizuku service to help with Android battery optimizer."
   }
 ]
