@@ -2623,5 +2623,89 @@
     "github": "iaakki/qidi",
     "url": "https://github.com/iaakki/qidi",
     "description": "Shizuku service to help with Android battery optimizer."
+  },
+  {
+    "name": "RootlessBrennanDSP",
+    "category": "Audio",
+    "github": "bshea-1/RootlessBrennanDSP",
+    "url": "https://github.com/bshea-1/RootlessBrennanDSP",
+    "description": "High-performance ultra-low-latency system-wide DSP audio engine for non-rooted Android. JamesDSP alternative."
+  },
+  {
+    "name": "allEQ",
+    "category": "Audio",
+    "github": "omixin/allEQ",
+    "url": "https://github.com/omixin/allEQ",
+    "description": "Rootless 10-band system equalizer for Android using Shizuku and Android AudioEffects."
+  },
+  {
+    "name": "AetherEQ",
+    "category": "Audio",
+    "github": "chewtoo22-rgb/AetherEQ",
+    "url": "https://github.com/chewtoo22-rgb/AetherEQ",
+    "description": "Peace-inspired system-wide audio equalizer and DSP enhancer for Android."
+  },
+  {
+    "name": "AcoustaHires",
+    "category": "Audio",
+    "github": "imdacode/AcoustaHires",
+    "url": "https://github.com/imdacode/AcoustaHires",
+    "description": "Rootless high-resolution audio DSP equalizer using Shizuku for wired and Bluetooth devices."
+  },
+  {
+    "name": "RootlessViPER4Android",
+    "category": "Audio",
+    "github": "alienware377/RootlessViPER4Android",
+    "url": "https://github.com/alienware377/RootlessViPER4Android",
+    "description": "ViPER4Android effects ported into a RootlessJamesDSP fork. Rootless system-wide audio."
+  },
+  {
+    "name": "RLJamesDSP",
+    "category": "Audio",
+    "github": "Ero-gamer/RLJamesDSP",
+    "url": "https://github.com/Ero-gamer/RLJamesDSP",
+    "description": "System-wide JamesDSP audio processing engine for non-rooted Android devices."
+  },
+  {
+    "name": "SiphonDSP_J",
+    "category": "Audio",
+    "github": "Jamie05351/SiphonDSP_J",
+    "url": "https://github.com/Jamie05351/SiphonDSP_J",
+    "description": "System-wide JamesDSP audio processing engine for non-rooted Android devices."
+  },
+  {
+    "name": "JamesDSP-for-Android",
+    "category": "Audio",
+    "github": "akavkl/JamesDSP-for-Android",
+    "url": "https://github.com/akavkl/JamesDSP-for-Android",
+    "description": "JamesDSP audio engine port for Android."
+  },
+  {
+    "name": "MANTRA_ROUTE",
+    "category": "Audio",
+    "github": "markoboskoauroville/MANTRA_ROUTE",
+    "url": "https://github.com/markoboskoauroville/MANTRA_ROUTE",
+    "description": "Every audio output as a row in one notification. Shizuku-based routing control."
+  },
+  {
+    "name": "Audio-Refresher",
+    "category": "Audio",
+    "github": "SebastianZzzz/Audio-Refresher",
+    "url": "https://github.com/SebastianZzzz/Audio-Refresher",
+    "description": "Refresh audio services via Shizuku to keep audio service alive in background."
+  },
+  {
+    "name": "Ever-Call-Recorder",
+    "category": "Audio",
+    "github": "hari161008/Ever-Call-Recorder",
+    "url": "https://github.com/hari161008/Ever-Call-Recorder",
+    "description": "Non-root open-source call recorder using Shizuku for both-side call recording."
+  },
+  {
+    "name": "Active-2-Way-Cross-Over",
+    "category": "Audio",
+    "github": "jasyscom-corp/Active-2-Way-Cross-Over-AT-2XDSP-JamesDSP-LiveProg-",
+    "url": "https://github.com/jasyscom-corp/Active-2-Way-Cross-Over-AT-2XDSP-JamesDSP-LiveProg-",
+    "description": "Active 2-way crossover DSP config for JamesDSP LiveProg."
   }
 ]
