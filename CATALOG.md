@@ -1,4 +1,4 @@
-# Shizuku Apps Catalog (354 apps)
+# Shizuku Apps Catalog (375 apps)
 
 Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) on 2026-09-12. Sorted by category.
 
@@ -433,3 +433,36 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [vyxel-apps](https://github.com/NikhilKain/vyxel-apps) — Open-source GitHub-powered Android app store
 - [kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) — Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
 - [LSFG-Android](https://github.com/FrankBarretta/LSFG-Android) — Lossless Scaling Frames Generator (LSFG) Application for Android
+
+## AI
+
+- [zafiro](https://github.com/niki914/zafiro) — Open-source BYOK AI agent for Android. Full phone control, native Shell & Python 3, with Skills and MCP support. Works via Shizuku.
+- [AndroidHarness](https://github.com/Sanuu7/AndroidHarness) — Native AI coding agent harness app for Android with Shizuku support.
+- [yachiyo-claw](https://github.com/Wayne1145/yachiyo-claw) — Open-source Android AI chat, on-device agent, local models, Live2D, Skills, MCP, and Vibe Coding.
+- [MistConnect](https://github.com/rejian2022/MistConnect) — Android MCP bridge: phone state, UI control, Shizuku shell tools for AI agents.
+- [BetterAIChat](https://github.com/Verlintas/BetterAIChat) — Native Android AI agent: own API keys (OpenAI/Anthropic/Gemini), opencode-style modes, Shizuku shell, screen analysis.
+- [GoldenAgent](https://github.com/papyloking-max/GoldenAgent) — AI-powered automation agent for Android: ReAct, MCP, shell/ADB/Shizuku/Termux/SSH, Ollama/OpenAI/Anthropic/Gemini.
+- [Bauhinia-AI-Agent](https://github.com/jianghulun123/Bauhinia-AI-Agent) — Flutter-based on-device AI agent with multi-turn tool calls, memory system, Skill orchestration and Shizuku ops.
+- [ziweixing](https://github.com/xiaozhe7772222/ziweixing) — Human-like Android phone automation agent, works with any AI app.
+- [android-agent](https://github.com/XuNing2/android-agent) — Safety-first Android AI system administrator with a typed Shizuku capability broker.
+- [ZF-Android-Agent](https://github.com/mzf1378197541/ZF-Android-Agent) — Phone-native Android AI agent with native tools, Root/Shizuku, accessibility automation and optional Linux workspace.
+- [browser-agent](https://github.com/Lumjiel/browser-agent) — Remote browser automation for AI agents on Android. Termux + XBrowser + Shizuku.
+- [termux-shizuku](https://github.com/xvxv-stack7/termux-shizuku) — AI agent control of Android without root via wireless debugging + Termux.
+
+## Shell / terminal
+
+- [libterm](https://github.com/niki914/libterm) — Kotlin-first Android terminal library spanning Su, Shizuku, and SSH sessions.
+- [TDA Mox](https://github.com/TDA-Android/TDA-Mox) — Local ADB Shell & wireless debugging terminal for system commands and Toybox utilities.
+- [VibeX Rish Shell](https://github.com/xashdevelopment/vibeX-rish-shell) — Android Shizuku terminal app (Rish shell).
+- [android-claude-code-mcp-server](https://github.com/celaya-solutions/android-claude-code-mcp-server) — MCP server driving Android via adb + SSH + Shizuku; runs Claude Code on-device.
+
+## Samsung
+
+- [Canta-debloater](https://github.com/johakovi/Canta-debloater) — Debloat list for Samsung OneUI 8.5, works on other Android systems too.
+- [wireless-debug-tile](https://github.com/clearcmos/wireless-debug-tile) — Quick Settings tile toggling wireless debugging; handy on One UI.
+
+## Optimization
+
+- [Debloater-next](https://github.com/Dev97633/Debloater-next) — Safe open-source Android debloater using Shizuku, no root required.
+- [Gamaspace](https://github.com/coco0081/Gamaspace) — Game optimization app with Shizuku support: RAM, CPU, GPU, battery optimization and game launcher.
+- [qidi](https://github.com/iaakki/qidi) — Shizuku service to help with Android battery optimizer.
