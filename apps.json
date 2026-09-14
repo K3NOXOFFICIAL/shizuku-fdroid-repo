@@ -7,13 +7,6 @@
     "description": "On-device GUI-agent runner deploying the full ClawGUI brain stack on one phone controlled via Shizuku."
   },
   {
-    "name": "Mythara",
-    "category": "AI agents",
-    "github": "ankurCES/project_mythara",
-    "url": "https://github.com/ankurCES/project_mythara",
-    "description": "Open-source local-first agentic AI OS layer for Android. Runs 65+ on-device tools (calls, SMS, calendar, Termux, face recognition); uses Shizuku for cosmetic system tweaks (font scale, dark mode, accent) without root"
-  },
-  {
     "name": "OmniBot",
     "category": "AI agents",
     "github": "omnimind-ai/OmniBot",
@@ -259,11 +252,11 @@
     "description": "KDE Connect build with Shizuku-powered automatic bidirectional clipboard sync between Android and PC. (Fork of KDE Connect with restored clipboard-send support via Shizuku.)"
   },
   {
-    "name": "Kettu",
+    "name": "KettuManager",
     "category": "Communication",
-    "github": "C0C0B01/Kettu",
-    "url": "https://github.com/C0C0B01/Kettu",
-    "description": "Discord modding tool. Continuation of the abandoned Bunny-Manager project"
+    "github": "C0C0B01/KettuManager",
+    "url": "https://github.com/C0C0B01/KettuManager",
+    "description": "Discord modding tool. Continuation of the abandoned BunnyManager project"
   },
   {
     "name": "Lemmy Redirect",
@@ -770,13 +763,6 @@
     "description": "Creates a virtual display, runs apps on it, and streams screen, touch, and audio into a remote browser over local Wi-Fi"
   },
   {
-    "name": "ConnectScreen",
-    "category": "Display management",
-    "github": "",
-    "url": "https://connect-screen.com/",
-    "description": "Launch single apps to display in fullscreen on external displays. Can use the primary screen of the mobile as a virtual touchpad to control external display. Can rotate the screen for applications like TikTok `GPL-3.0` [(Source code)](https://gitee.com/connect-screen/connect-screen)"
-  },
-  {
     "name": "deskcontrol",
     "category": "Display management",
     "github": "exiarepairii/deskcontrol",
@@ -966,13 +952,6 @@
     "description": "Browndust II Mod manager"
   },
   {
-    "name": "blocktopograph",
-    "category": "Games",
-    "github": "Blocktopograph/Blocktopograph",
-    "url": "https://github.com/Blocktopograph/Blocktopograph",
-    "description": "Blocktopograph is an app server for MCBE, it includes a world, NBT editor for local worlds"
-  },
-  {
     "name": "Cinderbox-Companion",
     "category": "Games",
     "github": "ObfuscatedVoid/Cinderbox-Companion",
@@ -985,13 +964,6 @@
     "github": "StardewValleyMods/CloudSync-Mobile",
     "url": "https://github.com/StardewValleyMods/CloudSync-Mobile",
     "description": "An app that allows you to sync your Stardew Valley saves across multiple devices"
-  },
-  {
-    "name": "HandheldExp",
-    "category": "Games",
-    "github": "Teppichseite/HandheldExp",
-    "url": "https://github.com/Teppichseite/HandheldExp",
-    "description": "In-game menu for EmulationStation (ES-DE) on Android"
   },
   {
     "name": "lac-tool",
@@ -1071,25 +1043,11 @@
     "description": "Fate/Grand Order game translation project"
   },
   {
-    "name": "umamusume-localify-android",
-    "category": "Games",
-    "github": "Kimjio/umamusume-localify-android",
-    "url": "https://github.com/Kimjio/umamusume-localify-android",
-    "description": "Localization module for Umamusume via Zygisk with Shizuku integration"
-  },
-  {
     "name": "andRemote2",
     "category": "Input methods",
     "github": "c0dev0id/andRemote2",
     "url": "https://github.com/c0dev0id/andRemote2",
     "description": "Emulates the DMD Remote 2 for map apps"
-  },
-  {
-    "name": "Android-Show-Taps",
-    "category": "Input methods",
-    "github": "k3x1n/Android-Show-Taps",
-    "url": "https://github.com/k3x1n/Android-Show-Taps",
-    "description": "Show customized taps upon touches"
   },
   {
     "name": "C9",
@@ -2188,7 +2146,7 @@
     "category": "Vendor-specific",
     "github": "",
     "url": "https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg",
-    "description": "5G shortcut switch for HyperOS/MIUI `GPL-3.0` [(Source code)](https://github.com/ysy950803/FiveGSwitcher)"
+    "description": ""
   },
   {
     "name": "FxxkMIUIAd",
@@ -2217,13 +2175,6 @@
     "github": "wxxsfxyzm/IslandRecorder",
     "url": "https://github.com/wxxsfxyzm/IslandRecorder",
     "description": "Xiaomi-focused screen recorder with Super Island controls"
-  },
-  {
-    "name": "Mi-FreeForm",
-    "category": "Vendor-specific",
-    "github": "sunshine0523/Mi-FreeForm",
-    "url": "https://github.com/sunshine0523/Mi-FreeForm",
-    "description": "Display most apps in the form of freeform on MIUI"
   },
   {
     "name": "MixFlipTool",
@@ -2457,13 +2408,6 @@
     "description": "An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps."
   },
   {
-    "name": "vyxel-apps",
-    "category": "Discovered via GitHub search",
-    "github": "NikhilKain/vyxel-apps",
-    "url": "https://github.com/NikhilKain/vyxel-apps",
-    "description": "Open-source GitHub-powered Android app store"
-  },
-  {
     "name": "kiosk-satellite",
     "category": "Discovered via GitHub search",
     "github": "jxlarrea/kiosk-satellite",
@@ -2471,241 +2415,17 @@
     "description": "Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up."
   },
   {
+    "name": "vyxel-apps",
+    "category": "Discovered via GitHub search",
+    "github": "NikhilKain/vyxel-apps",
+    "url": "https://github.com/NikhilKain/vyxel-apps",
+    "description": "Open-source GitHub-powered Android app store"
+  },
+  {
     "name": "LSFG-Android",
     "category": "Discovered via GitHub search",
     "github": "FrankBarretta/LSFG-Android",
     "url": "https://github.com/FrankBarretta/LSFG-Android",
     "description": "Lossless Scaling Frames Generator (LSFG) Application for Android"
-  },
-  {
-    "name": "zafiro",
-    "category": "AI",
-    "github": "niki914/zafiro",
-    "url": "https://github.com/niki914/zafiro",
-    "description": "Open-source BYOK AI agent for Android. Full phone control, native Shell & Python 3, with Skills and MCP support. Works via Shizuku."
-  },
-  {
-    "name": "AndroidHarness",
-    "category": "AI",
-    "github": "Sanuu7/AndroidHarness",
-    "url": "https://github.com/Sanuu7/AndroidHarness",
-    "description": "Native AI coding agent harness app for Android with Shizuku support."
-  },
-  {
-    "name": "yachiyo-claw",
-    "category": "AI",
-    "github": "Wayne1145/yachiyo-claw",
-    "url": "https://github.com/Wayne1145/yachiyo-claw",
-    "description": "Open-source Android AI chat, on-device agent, local models, Live2D, Skills, MCP, and Vibe Coding."
-  },
-  {
-    "name": "MistConnect",
-    "category": "AI",
-    "github": "rejian2022/MistConnect",
-    "url": "https://github.com/rejian2022/MistConnect",
-    "description": "Android MCP bridge: phone state, UI control, Shizuku shell tools for AI agents."
-  },
-  {
-    "name": "BetterAIChat",
-    "category": "AI",
-    "github": "Verlintas/BetterAIChat",
-    "url": "https://github.com/Verlintas/BetterAIChat",
-    "description": "Native Android AI agent: own API keys (OpenAI/Anthropic/Gemini), opencode-style modes, Shizuku shell, screen analysis."
-  },
-  {
-    "name": "GoldenAgent",
-    "category": "AI",
-    "github": "papyloking-max/GoldenAgent",
-    "url": "https://github.com/papyloking-max/GoldenAgent",
-    "description": "AI-powered automation agent for Android: ReAct, MCP, shell/ADB/Shizuku/Termux/SSH, Ollama/OpenAI/Anthropic/Gemini."
-  },
-  {
-    "name": "Bauhinia-AI-Agent",
-    "category": "AI",
-    "github": "jianghulun123/Bauhinia-AI-Agent",
-    "url": "https://github.com/jianghulun123/Bauhinia-AI-Agent",
-    "description": "Flutter-based on-device AI agent with multi-turn tool calls, memory system, Skill orchestration and Shizuku ops."
-  },
-  {
-    "name": "ziweixing",
-    "category": "AI",
-    "github": "xiaozhe7772222/ziweixing",
-    "url": "https://github.com/xiaozhe7772222/ziweixing",
-    "description": "Human-like Android phone automation agent, works with any AI app."
-  },
-  {
-    "name": "android-agent",
-    "category": "AI",
-    "github": "XuNing2/android-agent",
-    "url": "https://github.com/XuNing2/android-agent",
-    "description": "Safety-first Android AI system administrator with a typed Shizuku capability broker."
-  },
-  {
-    "name": "ZF-Android-Agent",
-    "category": "AI",
-    "github": "mzf1378197541/ZF-Android-Agent",
-    "url": "https://github.com/mzf1378197541/ZF-Android-Agent",
-    "description": "Phone-native Android AI agent with native tools, Root/Shizuku, accessibility automation and optional Linux workspace."
-  },
-  {
-    "name": "browser-agent",
-    "category": "AI",
-    "github": "Lumjiel/browser-agent",
-    "url": "https://github.com/Lumjiel/browser-agent",
-    "description": "Remote browser automation for AI agents on Android. Termux + XBrowser + Shizuku."
-  },
-  {
-    "name": "termux-shizuku",
-    "category": "AI",
-    "github": "xvxv-stack7/termux-shizuku",
-    "url": "https://github.com/xvxv-stack7/termux-shizuku",
-    "description": "AI agent control of Android without root via wireless debugging + Termux."
-  },
-  {
-    "name": "libterm",
-    "category": "Shell / terminal",
-    "github": "niki914/libterm",
-    "url": "https://github.com/niki914/libterm",
-    "description": "Kotlin-first Android terminal library spanning Su, Shizuku, and SSH sessions."
-  },
-  {
-    "name": "TDA Mox",
-    "category": "Shell / terminal",
-    "github": "TDA-Android/TDA-Mox",
-    "url": "https://github.com/TDA-Android/TDA-Mox",
-    "description": "Local ADB Shell & wireless debugging terminal for system commands and Toybox utilities."
-  },
-  {
-    "name": "VibeX Rish Shell",
-    "category": "Shell / terminal",
-    "github": "xashdevelopment/vibeX-rish-shell",
-    "url": "https://github.com/xashdevelopment/vibeX-rish-shell",
-    "description": "Android Shizuku terminal app (Rish shell)."
-  },
-  {
-    "name": "android-claude-code-mcp-server",
-    "category": "Shell / terminal",
-    "github": "celaya-solutions/android-claude-code-mcp-server",
-    "url": "https://github.com/celaya-solutions/android-claude-code-mcp-server",
-    "description": "MCP server driving Android via adb + SSH + Shizuku; runs Claude Code on-device."
-  },
-  {
-    "name": "Canta-debloater",
-    "category": "Samsung",
-    "github": "johakovi/Canta-debloater",
-    "url": "https://github.com/johakovi/Canta-debloater",
-    "description": "Debloat list for Samsung OneUI 8.5, works on other Android systems too."
-  },
-  {
-    "name": "wireless-debug-tile",
-    "category": "Samsung",
-    "github": "clearcmos/wireless-debug-tile",
-    "url": "https://github.com/clearcmos/wireless-debug-tile",
-    "description": "Quick Settings tile toggling wireless debugging; handy on One UI."
-  },
-  {
-    "name": "Debloater-next",
-    "category": "Optimization",
-    "github": "Dev97633/Debloater-next",
-    "url": "https://github.com/Dev97633/Debloater-next",
-    "description": "Safe open-source Android debloater using Shizuku, no root required."
-  },
-  {
-    "name": "Gamaspace",
-    "category": "Optimization",
-    "github": "coco0081/Gamaspace",
-    "url": "https://github.com/coco0081/Gamaspace",
-    "description": "Game optimization app with Shizuku support: RAM, CPU, GPU, battery optimization and game launcher."
-  },
-  {
-    "name": "qidi",
-    "category": "Optimization",
-    "github": "iaakki/qidi",
-    "url": "https://github.com/iaakki/qidi",
-    "description": "Shizuku service to help with Android battery optimizer."
-  },
-  {
-    "name": "RootlessBrennanDSP",
-    "category": "Audio",
-    "github": "bshea-1/RootlessBrennanDSP",
-    "url": "https://github.com/bshea-1/RootlessBrennanDSP",
-    "description": "High-performance ultra-low-latency system-wide DSP audio engine for non-rooted Android. JamesDSP alternative."
-  },
-  {
-    "name": "allEQ",
-    "category": "Audio",
-    "github": "omixin/allEQ",
-    "url": "https://github.com/omixin/allEQ",
-    "description": "Rootless 10-band system equalizer for Android using Shizuku and Android AudioEffects."
-  },
-  {
-    "name": "AetherEQ",
-    "category": "Audio",
-    "github": "chewtoo22-rgb/AetherEQ",
-    "url": "https://github.com/chewtoo22-rgb/AetherEQ",
-    "description": "Peace-inspired system-wide audio equalizer and DSP enhancer for Android."
-  },
-  {
-    "name": "AcoustaHires",
-    "category": "Audio",
-    "github": "imdacode/AcoustaHires",
-    "url": "https://github.com/imdacode/AcoustaHires",
-    "description": "Rootless high-resolution audio DSP equalizer using Shizuku for wired and Bluetooth devices."
-  },
-  {
-    "name": "RootlessViPER4Android",
-    "category": "Audio",
-    "github": "alienware377/RootlessViPER4Android",
-    "url": "https://github.com/alienware377/RootlessViPER4Android",
-    "description": "ViPER4Android effects ported into a RootlessJamesDSP fork. Rootless system-wide audio."
-  },
-  {
-    "name": "RLJamesDSP",
-    "category": "Audio",
-    "github": "Ero-gamer/RLJamesDSP",
-    "url": "https://github.com/Ero-gamer/RLJamesDSP",
-    "description": "System-wide JamesDSP audio processing engine for non-rooted Android devices."
-  },
-  {
-    "name": "SiphonDSP_J",
-    "category": "Audio",
-    "github": "Jamie05351/SiphonDSP_J",
-    "url": "https://github.com/Jamie05351/SiphonDSP_J",
-    "description": "System-wide JamesDSP audio processing engine for non-rooted Android devices."
-  },
-  {
-    "name": "JamesDSP-for-Android",
-    "category": "Audio",
-    "github": "akavkl/JamesDSP-for-Android",
-    "url": "https://github.com/akavkl/JamesDSP-for-Android",
-    "description": "JamesDSP audio engine port for Android."
-  },
-  {
-    "name": "MANTRA_ROUTE",
-    "category": "Audio",
-    "github": "markoboskoauroville/MANTRA_ROUTE",
-    "url": "https://github.com/markoboskoauroville/MANTRA_ROUTE",
-    "description": "Every audio output as a row in one notification. Shizuku-based routing control."
-  },
-  {
-    "name": "Audio-Refresher",
-    "category": "Audio",
-    "github": "SebastianZzzz/Audio-Refresher",
-    "url": "https://github.com/SebastianZzzz/Audio-Refresher",
-    "description": "Refresh audio services via Shizuku to keep audio service alive in background."
-  },
-  {
-    "name": "Ever-Call-Recorder",
-    "category": "Audio",
-    "github": "hari161008/Ever-Call-Recorder",
-    "url": "https://github.com/hari161008/Ever-Call-Recorder",
-    "description": "Non-root open-source call recorder using Shizuku for both-side call recording."
-  },
-  {
-    "name": "Active-2-Way-Cross-Over",
-    "category": "Audio",
-    "github": "jasyscom-corp/Active-2-Way-Cross-Over-AT-2XDSP-JamesDSP-LiveProg-",
-    "url": "https://github.com/jasyscom-corp/Active-2-Way-Cross-Over-AT-2XDSP-JamesDSP-LiveProg-",
-    "description": "Active 2-way crossover DSP config for JamesDSP LiveProg."
   }
 ]

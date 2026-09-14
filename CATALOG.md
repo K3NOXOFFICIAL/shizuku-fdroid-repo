@@ -1,11 +1,10 @@
-# Shizuku Apps Catalog (387 apps)
+# Shizuku Apps Catalog (347 apps)
 
-Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) on 2026-09-12. Sorted by category.
+Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) on 2026-09-14. Sorted by category.
 
 ## AI agents
 
 - [ClawGUI](https://github.com/ZJU-REAL/ClawGUI) — On-device GUI-agent runner deploying the full ClawGUI brain stack on one phone controlled via Shizuku.
-- [Mythara](https://github.com/ankurCES/project_mythara) — Open-source local-first agentic AI OS layer for Android. Runs 65+ on-device tools (calls, SMS, calendar, Termux, face recognition); uses Shizuku for cosmetic system tweaks (font scale, dark mode, accent) without root
 - [OmniBot](https://github.com/omnimind-ai/OmniBot) — On-device AI agent with terminal, web browsing, device control, and system integration
 - [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android/blob/main/README_EN.md) — Automates actions on your device using the AutoGLM vision language model
 - [OpenCyvis](https://github.com/opencyvis/opencyvis-phone) — Open-source AI phone that sees your screen and operates apps from natural language tasks, works in the background
@@ -53,7 +52,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [CatShare](https://f-droid.org/packages/moe.reimu.catshare/) — Send and receive files over Bluetooth `MIT` [(Source code)](https://github.com/kmod-midori/CatShare)
 - [GhostMode](https://github.com/Foxlape/GhostMode) — Makes the phone appear unavailable for incoming calls while keeping LTE/5G data active
 - [KDE Connect (Shizuku)](https://github.com/libdu/kde-connect-shizuku) — KDE Connect build with Shizuku-powered automatic bidirectional clipboard sync between Android and PC. (Fork of KDE Connect with restored clipboard-send support via Shizuku.)
-- [Kettu](https://github.com/C0C0B01/Kettu) — Discord modding tool. Continuation of the abandoned Bunny-Manager project
+- [KettuManager](https://github.com/C0C0B01/KettuManager) — Discord modding tool. Continuation of the abandoned BunnyManager project
 - [Lemmy Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.lemmyredirect) — A simple app for automatically launching Lemmy links in your preferred Lemmy client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
 - [Mastodon Redirect](https://apt.izzysoft.de/fdroid/index/apk/dev.zwander.mastodonredirect) — A simple app for automatically launching fediverse links in your preferred Mastodon client. `MIT` [(Source code)](https://github.com/zacharee/MastodonRedirect)
 - [revenge-manager](https://github.com/revenge-mod/revenge-manager) — Discord modding tool. Another continuation of the abandoned Bunny-Manager project
@@ -138,7 +137,6 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [android-display-extend](https://github.com/jqssun/android-display-extend)
 - [android-display-mirror](https://github.com/jqssun/android-display-mirror)
 - [Castla](https://github.com/Suprhimp/castla) — Creates a virtual display, runs apps on it, and streams screen, touch, and audio into a remote browser over local Wi-Fi
-- [ConnectScreen](https://connect-screen.com/) — Launch single apps to display in fullscreen on external displays. Can use the primary screen of the mobile as a virtual touchpad to control external display. Can rotate the screen for applications like TikTok `GPL-3.0` [(Source code)](https://gitee.com/connect-screen/connect-screen)
 - [deskcontrol](https://github.com/exiarepairii/deskcontrol) — Turns your phone into a touchpad and keyboard for a single app running on a wired external display
 - [Dextop](https://github.com/NarYuki/Dextop) — Desktop environment using Samsung DeX or Shizuku with multitasking and custom resolution
 - [Fold_Switcher](https://github.com/eiyooooo/Fold_Switcher) — Switch between various display folding states on foldable devices
@@ -175,10 +173,8 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 
 - [Ascent](https://github.com/4o3F/Ascent) — A tool for retrieving gacha history links from Mihoyo games
 - [BDroid_X](https://github.com/Ark-Repoleved/BDroid_X) — Browndust II Mod manager
-- [blocktopograph](https://github.com/Blocktopograph/Blocktopograph) — Blocktopograph is an app server for MCBE, it includes a world, NBT editor for local worlds
 - [Cinderbox-Companion](https://github.com/ObfuscatedVoid/Cinderbox-Companion) — Companion app for Stardew Valley on Android with Steam Cloud save sync, game file download, and SMAPI mod management
 - [CloudSync-Mobile](https://github.com/StardewValleyMods/CloudSync-Mobile) — An app that allows you to sync your Stardew Valley saves across multiple devices
-- [HandheldExp](https://github.com/Teppichseite/HandheldExp) — In-game menu for EmulationStation (ES-DE) on Android
 - [lac-tool](https://github.com/aliernfrog/lac-tool) — Manage maps, wallpapers, and screenshots for the game 'Los Angeles Crimes'
 - [linkura-localify](https://github.com/ChocoLZS/linkura-localify) — Localization plugin for Link! Like! LoveLive! that translates game text via LLM
 - [LOModInstaller](https://github.com/anyabot/LOModInstaller) — Mod manager for the game 'Last Origin'
@@ -190,12 +186,10 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [ShinGen](https://github.com/Shio2077/ShinGen#genshin-impact-auto-conversation-clicker-on-android) — Genshin Impact Auto-Conversation Clicker
 - [stalker](https://github.com/onerdna/stalker) — Save data viewer & editor for Shadow Fight 2
 - [translatefgo](https://github.com/rayshift/translatefgo) — Fate/Grand Order game translation project
-- [umamusume-localify-android](https://github.com/Kimjio/umamusume-localify-android) — Localization module for Umamusume via Zygisk with Shizuku integration
 
 ## Input methods
 
 - [andRemote2](https://github.com/c0dev0id/andRemote2) — Emulates the DMD Remote 2 for map apps
-- [Android-Show-Taps](https://github.com/k3x1n/Android-Show-Taps) — Show customized taps upon touches
 - [C9](https://github.com/austinauyeung/C9) — Efficient grid-based cursor provided alongside a traditional cursor. Shizuku is only required on Android 11.
 - [GameShift](https://github.com/tientien17/GameShift) — Auto-switches the default home launcher when a game controller connects and restores it on disconnect, using Shizuku without root.
 - [Joycon2Android](https://github.com/JoeGeC/joycon2android) — Connects Nintendo Switch 2 Joy-Con controllers over BLE and exposes them as system-wide virtual gamepads via a Shizuku UHID relay.
@@ -388,12 +382,11 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [SMTShell](https://github.com/BLuFeNiX/SMTShell) — Privilege escalation exploit [(CVE-2019-16253)](https://nvd.nist.gov/vuln/detail/CVE-2019-16253) to system user access (UID 1000) on non-rooted devices running up to OneUI 5. Uses Shizuku for automation
 - [ZFold-Multi-DPI](https://github.com/balamurugan15/ZFold-Multi-DPI) — Applies separate screen zoom and DPI presets for the cover and inner displays of Samsung Galaxy Z Fold devices
 - [Aura](https://github.com/tgvdufuture/Aura) — Custom RGB notification LED app for POCO X8 Pro with per-app, per-contact, and per-group colors and animations
-- [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg) — 5G shortcut switch for HyperOS/MIUI `GPL-3.0` [(Source code)](https://github.com/ysy950803/FiveGSwitcher)
+- [FiveGSwitcher](https://play.google.com/store/apps/details?id=com.ysy.switcherfiveg)
 - [FxxkMIUIAd](https://github.com/qhy040404/FxxkMIUIAd) — Turn off MIUI ads with minimal cost
 - [HyperOS FCM Fix](https://github.com/dingwen07/hyperos-fcm-fix) — Keeps Google Play services unrestricted on HyperOS so FCM push notifications arrive on time
 - [HyperOSUnfcker](https://github.com/Enki013/hyperosunfcker) — Unlocks hidden performance, display, memory, battery, and visual settings on HyperOS/MIUI devices
 - [IslandRecorder](https://github.com/wxxsfxyzm/IslandRecorder) — Xiaomi-focused screen recorder with Super Island controls
-- [Mi-FreeForm](https://github.com/sunshine0523/Mi-FreeForm) — Display most apps in the form of freeform on MIUI
 - [MixFlipTool](https://github.com/parallelcc/MixFlipTool) — One-click configuration for Mix Flip's outer screen: Use any apps and restore system apps to default style
 - [mtbtool-android-app](https://github.com/h3nnes/mtbtool-android-app) — Perform bandlock and edit EFS NV items on qualcomm-based Xiaomi devices without root
 - [NavigationSwitcher](https://github.com/chiyuki0325/NavigationSwitcher) — Enable 3-button navigation in rhythm games for MIUI / HyperOS
@@ -430,54 +423,6 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) — Android使用密码本暴力破解wifi密码工具
 - [shevery](https://github.com/HmnDev-Tech/shevery) — Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.
 - [ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) — An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.
-- [vyxel-apps](https://github.com/NikhilKain/vyxel-apps) — Open-source GitHub-powered Android app store
 - [kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite) — Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
+- [vyxel-apps](https://github.com/NikhilKain/vyxel-apps) — Open-source GitHub-powered Android app store
 - [LSFG-Android](https://github.com/FrankBarretta/LSFG-Android) — Lossless Scaling Frames Generator (LSFG) Application for Android
-
-## AI
-
-- [zafiro](https://github.com/niki914/zafiro) — Open-source BYOK AI agent for Android. Full phone control, native Shell & Python 3, with Skills and MCP support. Works via Shizuku.
-- [AndroidHarness](https://github.com/Sanuu7/AndroidHarness) — Native AI coding agent harness app for Android with Shizuku support.
-- [yachiyo-claw](https://github.com/Wayne1145/yachiyo-claw) — Open-source Android AI chat, on-device agent, local models, Live2D, Skills, MCP, and Vibe Coding.
-- [MistConnect](https://github.com/rejian2022/MistConnect) — Android MCP bridge: phone state, UI control, Shizuku shell tools for AI agents.
-- [BetterAIChat](https://github.com/Verlintas/BetterAIChat) — Native Android AI agent: own API keys (OpenAI/Anthropic/Gemini), opencode-style modes, Shizuku shell, screen analysis.
-- [GoldenAgent](https://github.com/papyloking-max/GoldenAgent) — AI-powered automation agent for Android: ReAct, MCP, shell/ADB/Shizuku/Termux/SSH, Ollama/OpenAI/Anthropic/Gemini.
-- [Bauhinia-AI-Agent](https://github.com/jianghulun123/Bauhinia-AI-Agent) — Flutter-based on-device AI agent with multi-turn tool calls, memory system, Skill orchestration and Shizuku ops.
-- [ziweixing](https://github.com/xiaozhe7772222/ziweixing) — Human-like Android phone automation agent, works with any AI app.
-- [android-agent](https://github.com/XuNing2/android-agent) — Safety-first Android AI system administrator with a typed Shizuku capability broker.
-- [ZF-Android-Agent](https://github.com/mzf1378197541/ZF-Android-Agent) — Phone-native Android AI agent with native tools, Root/Shizuku, accessibility automation and optional Linux workspace.
-- [browser-agent](https://github.com/Lumjiel/browser-agent) — Remote browser automation for AI agents on Android. Termux + XBrowser + Shizuku.
-- [termux-shizuku](https://github.com/xvxv-stack7/termux-shizuku) — AI agent control of Android without root via wireless debugging + Termux.
-
-## Shell / terminal
-
-- [libterm](https://github.com/niki914/libterm) — Kotlin-first Android terminal library spanning Su, Shizuku, and SSH sessions.
-- [TDA Mox](https://github.com/TDA-Android/TDA-Mox) — Local ADB Shell & wireless debugging terminal for system commands and Toybox utilities.
-- [VibeX Rish Shell](https://github.com/xashdevelopment/vibeX-rish-shell) — Android Shizuku terminal app (Rish shell).
-- [android-claude-code-mcp-server](https://github.com/celaya-solutions/android-claude-code-mcp-server) — MCP server driving Android via adb + SSH + Shizuku; runs Claude Code on-device.
-
-## Samsung
-
-- [Canta-debloater](https://github.com/johakovi/Canta-debloater) — Debloat list for Samsung OneUI 8.5, works on other Android systems too.
-- [wireless-debug-tile](https://github.com/clearcmos/wireless-debug-tile) — Quick Settings tile toggling wireless debugging; handy on One UI.
-
-## Optimization
-
-- [Debloater-next](https://github.com/Dev97633/Debloater-next) — Safe open-source Android debloater using Shizuku, no root required.
-- [Gamaspace](https://github.com/coco0081/Gamaspace) — Game optimization app with Shizuku support: RAM, CPU, GPU, battery optimization and game launcher.
-- [qidi](https://github.com/iaakki/qidi) — Shizuku service to help with Android battery optimizer.
-
-## Audio
-
-- [RootlessBrennanDSP](https://github.com/bshea-1/RootlessBrennanDSP) — High-performance ultra-low-latency system-wide DSP audio engine for non-rooted Android. JamesDSP alternative.
-- [allEQ](https://github.com/omixin/allEQ) — Rootless 10-band system equalizer for Android using Shizuku and Android AudioEffects.
-- [AetherEQ](https://github.com/chewtoo22-rgb/AetherEQ) — Peace-inspired system-wide audio equalizer and DSP enhancer for Android.
-- [AcoustaHires](https://github.com/imdacode/AcoustaHires) — Rootless high-resolution audio DSP equalizer using Shizuku for wired and Bluetooth devices.
-- [RootlessViPER4Android](https://github.com/alienware377/RootlessViPER4Android) — ViPER4Android effects ported into a RootlessJamesDSP fork. Rootless system-wide audio.
-- [RLJamesDSP](https://github.com/Ero-gamer/RLJamesDSP) — System-wide JamesDSP audio processing engine for non-rooted Android devices.
-- [SiphonDSP_J](https://github.com/Jamie05351/SiphonDSP_J) — System-wide JamesDSP audio processing engine for non-rooted Android devices.
-- [JamesDSP-for-Android](https://github.com/akavkl/JamesDSP-for-Android) — JamesDSP audio engine port for Android.
-- [MANTRA_ROUTE](https://github.com/markoboskoauroville/MANTRA_ROUTE) — Every audio output as a row in one notification. Shizuku-based routing control.
-- [Audio-Refresher](https://github.com/SebastianZzzz/Audio-Refresher) — Refresh audio services via Shizuku to keep audio service alive in background.
-- [Ever-Call-Recorder](https://github.com/hari161008/Ever-Call-Recorder) — Non-root open-source call recorder using Shizuku for both-side call recording.
-- [Active-2-Way-Cross-Over](https://github.com/jasyscom-corp/Active-2-Way-Cross-Over-AT-2XDSP-JamesDSP-LiveProg-) — Active 2-way crossover DSP config for JamesDSP LiveProg.
