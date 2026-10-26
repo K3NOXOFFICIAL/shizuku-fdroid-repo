@@ -1,6 +1,6 @@
-# Shizuku Apps Catalog (479 apps)
+# Shizuku Apps Catalog (481 apps)
 
-Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) on 2026-10-19. Sorted by category.
+Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) on 2026-10-26. Sorted by category.
 
 ## Shizuku implementations
 
@@ -56,6 +56,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [MicUp](https://github.com/papergray/MicUp)
 - [Mixer (1)](https://github.com/farizanjum/mixer-1) — Per-app volume overlay intercepting hardware keys
 - [RootlessJamesDSP](https://play.google.com/store/apps/details?id=me.timschneeberger.rootlessjamesdsp) — An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices `GPL-3.0` [(Source code)](https://github.com/timschneeb/RootlessJamesDSP)
+- [SplitAudio](https://github.com/monarchsofchaos004-gif/splitaudio) — Keeps your music app on Bluetooth and routes every other app to the phone speaker (AudioPolicy UID mix through Shizuku, no root); videos in other apps no longer pause the music. Alpha, tested on Xiaomi 15 / HyperOS 3.
 - [Spotify Ad Skipper](https://github.com/sihooney/spotify-ad-skipper) — Watches Spotify notifications and auto-skips ads by restarting playback, using Shizuku to relaunch from background.
 - [Volume++](https://github.com/noel-digital-fan/volume_plus_plus)
 - [VolumeManager](https://github.com/yume-chan/VolumeManager) — Control each app's volume independently
@@ -557,10 +558,11 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [Aliucord](https://github.com/Aliucord/Aliucord) — A mod for the Discord Android App
 - [Sui](https://github.com/RikkaApps/Sui) — Modern super user interface implementation on Android.
 - [NeriPlayer](https://github.com/cwuom/NeriPlayer) — A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵
+- [open-headunit](https://github.com/andreknieriem/open-headunit) — Headunit App for displaying Android Auto
 - [LADB](https://github.com/tytydraco/LADB) — A local ADB shell for Android!
 - [Inure](https://github.com/Hamza417/Inure) — An elegant and beautiful premium Android app manager with Root and Shizuku support, a built-in terminal, analytics, virustotal, debloat, stats and various other features with a custom theme engine, developed with purely custom UI design and reproducible build.
-- [uTag](https://github.com/KieronQuinn/uTag) — Use Samsung Galaxy SmartTags on any Android device
 - [Awesome-Android-TV-FOSS-Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) — A curated list of FOSS Android TV apps
+- [uTag](https://github.com/KieronQuinn/uTag) — Use Samsung Galaxy SmartTags on any Android device
 - [AxManager](https://github.com/fahrez182/AxManager) — AxManager is an Android application designed to provide deeper control over apps and the system.
 - [curbox-android](https://github.com/curbox-app/curbox-android) — Free Open Source App & Website Blocker
 - [android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) — Android使用密码本暴力破解wifi密码工具

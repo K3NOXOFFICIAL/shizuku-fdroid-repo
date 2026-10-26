@@ -280,6 +280,13 @@
     "description": "An implementation of the system-wide JamesDSP audio processing engine for non-rooted Android devices `GPL-3.0` [(Source code)](https://github.com/timschneeb/RootlessJamesDSP)"
   },
   {
+    "name": "SplitAudio",
+    "category": "Audio",
+    "github": "monarchsofchaos004-gif/splitaudio",
+    "url": "https://github.com/monarchsofchaos004-gif/splitaudio",
+    "description": "Keeps your music app on Bluetooth and routes every other app to the phone speaker (AudioPolicy UID mix through Shizuku, no root); videos in other apps no longer pause the music. Alpha, tested on Xiaomi 15 / HyperOS 3."
+  },
+  {
     "name": "Spotify Ad Skipper",
     "category": "Audio",
     "github": "sihooney/spotify-ad-skipper",
@@ -3304,6 +3311,13 @@
     "description": "A native Android audio player that combines multi-source streaming, local control, rich lyrics, and self-hosted sync. / ✨ 一个把多源在线播放、本地管理、歌词体验和自建同步做进原生 Android 的音频播放器 🎵"
   },
   {
+    "name": "open-headunit",
+    "category": "Discovered via GitHub search",
+    "github": "andreknieriem/open-headunit",
+    "url": "https://github.com/andreknieriem/open-headunit",
+    "description": "Headunit App for displaying Android Auto"
+  },
+  {
     "name": "LADB",
     "category": "Discovered via GitHub search",
     "github": "tytydraco/LADB",
@@ -3318,18 +3332,18 @@
     "description": "An elegant and beautiful premium Android app manager with Root and Shizuku support, a built-in terminal, analytics, virustotal, debloat, stats and various other features with a custom theme engine, developed with purely custom UI design and reproducible build."
   },
   {
-    "name": "uTag",
-    "category": "Discovered via GitHub search",
-    "github": "KieronQuinn/uTag",
-    "url": "https://github.com/KieronQuinn/uTag",
-    "description": "Use Samsung Galaxy SmartTags on any Android device"
-  },
-  {
     "name": "Awesome-Android-TV-FOSS-Apps",
     "category": "Discovered via GitHub search",
     "github": "Generator/Awesome-Android-TV-FOSS-Apps",
     "url": "https://github.com/Generator/Awesome-Android-TV-FOSS-Apps",
     "description": "A curated list of FOSS Android TV apps"
+  },
+  {
+    "name": "uTag",
+    "category": "Discovered via GitHub search",
+    "github": "KieronQuinn/uTag",
+    "url": "https://github.com/KieronQuinn/uTag",
+    "description": "Use Samsung Galaxy SmartTags on any Android device"
   },
   {
     "name": "AxManager",
