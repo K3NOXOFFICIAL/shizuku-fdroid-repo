@@ -189,11 +189,32 @@
     "description": "Bring-your-own-key AI agent that reads the screen and controls the device through Shizuku, without root."
   },
   {
+    "name": "AARE",
+    "category": "Android Auto",
+    "github": "prototux/AARE",
+    "url": "https://github.com/prototux/AARE",
+    "description": "Open-source phone-side Android Auto reimplementation with navigation, media and messaging; Shizuku routes car audio without root"
+  },
+  {
     "name": "Flywheel",
     "category": "Android Auto",
     "github": "Benjamin-Wiegand/Flywheel",
     "url": "https://github.com/Benjamin-Wiegand/Flywheel",
     "description": "Free and open source alternative to Android Auto aimed at de-googled phones, compatible with existing headunits; Shizuku is used for app embedding and call-audio capture."
+  },
+  {
+    "name": "UnknownAuto",
+    "category": "Android Auto",
+    "github": "GitMag/UnknownAuto",
+    "url": "https://github.com/GitMag/UnknownAuto",
+    "description": "Sideload and install Android Auto apps from unknown sources on-device, marking installs as Play-sourced via Shizuku"
+  },
+  {
+    "name": "Applingo",
+    "category": "Android TV",
+    "github": "ernisn/Applingo",
+    "url": "https://github.com/ernisn/Applingo",
+    "description": "Set one or more languages for any app and keep settings if dropped by the system. Manage language settings in batch easily with modern UI and Android TV support"
   },
   {
     "name": "flicky",
@@ -539,6 +560,13 @@
     "description": "Force per-app language settings on Android 13+ without root, even for apps without built-in language options"
   },
   {
+    "name": "Applingo",
+    "category": "Customization",
+    "github": "ernisn/Applingo",
+    "url": "https://github.com/ernisn/Applingo",
+    "description": "Set one or more languages for any app and keep settings if dropped by the system. Manage language settings in batch easily with modern UI and Android TV support"
+  },
+  {
     "name": "AutoDND",
     "category": "Customization",
     "github": "",
@@ -635,6 +663,13 @@
     "github": "",
     "url": "https://f-droid.org/packages/org.elnix.dragonlauncher/",
     "description": ""
+  },
+  {
+    "name": "Droidbubble",
+    "category": "Customization",
+    "github": "Velocity081/droidbubble",
+    "url": "https://github.com/Velocity081/droidbubble",
+    "description": "Interactive Dynamic Island overlay around the camera cutout with media, notifications and charging indicators; Shizuku hides status-bar icons"
   },
   {
     "name": "DroidOS",
@@ -852,6 +887,13 @@
     "github": "thejaustin/SuperShade",
     "url": "https://github.com/thejaustin/SuperShade",
     "description": "Notification shade replacement that drives brightness, status bar expansion and power actions through Shizuku shell commands."
+  },
+  {
+    "name": "SwitchAI",
+    "category": "Customization",
+    "github": "WSTxda/SwitchAI",
+    "url": "https://github.com/WSTxda/SwitchAI",
+    "description": "Select, start and manage preferred AI digital assistants with widgets and Quick Settings tiles; Shizuku enables voice input for specific assistants"
   },
   {
     "name": "SysReadout-Launcher",
@@ -1232,6 +1274,13 @@
     "description": "Merge and export BiliBili cache files into MP4, supports mobile and computer client"
   },
   {
+    "name": "Hush",
+    "category": "Entertainment",
+    "github": "coldMEW/Hush",
+    "url": "https://github.com/coldMEW/Hush",
+    "description": "Skips Spotify ad breaks by restarting Spotify in the background, with optional Spotify-only DNS filter; works via Wireless debugging or Shizuku"
+  },
+  {
     "name": "Mihon",
     "category": "Entertainment",
     "github": "mihonapp/mihon",
@@ -1363,6 +1412,13 @@
     "github": "kepatotorica/UnscopeMyData",
     "url": "https://github.com/kepatotorica/UnscopeMyData",
     "description": "Moves app data in and out of scoped storage folders using Shizuku for elevated file access."
+  },
+  {
+    "name": "Voyager",
+    "category": "File management",
+    "github": "AlanHuang99/Voyager",
+    "url": "https://github.com/AlanHuang99/Voyager",
+    "description": "Material Design 3 file browser for local storage, SFTP, FTP, SMB and WebDAV with an optional Shizuku session"
   },
   {
     "name": "XArchiver",
@@ -1757,13 +1813,6 @@
     "description": "F-Droid client fork that also installs apps from external sources, with a Shizuku installer and a Works with Shizuku discovery row."
   },
   {
-    "name": "OpenLoader",
-    "category": "Installer & app stores",
-    "github": "thebytearray/OpenLoader",
-    "url": "https://github.com/thebytearray/OpenLoader",
-    "description": "APK installer built for the Android developer verification era, using Shizuku for the privileged install path."
-  },
-  {
     "name": "Orion Store",
     "category": "Installer & app stores",
     "github": "RookieEnough/Orion-Store",
@@ -1808,8 +1857,8 @@
   {
     "name": "tern",
     "category": "Installer & app stores",
-    "github": "munzzyy/tern",
-    "url": "https://github.com/munzzyy/tern",
+    "github": "",
+    "url": "https://gitlab.com/Munzzyy/tern",
     "description": "Obtainium-style updater that verifies package name, signing certificate and publisher checksums before installing via Shizuku, Dhizuku, root or the system installer on phones, tablets and TV."
   },
   {
@@ -1832,6 +1881,13 @@
     "github": "carlelieser/yuki",
     "url": "https://github.com/carlelieser/yuki",
     "description": "Catalog and storefront for open-source Shizuku apps, crawled from GitHub"
+  },
+  {
+    "name": "abCheck",
+    "category": "Miscellaneous",
+    "github": "abanana84/abCheck",
+    "url": "https://github.com/abanana84/abCheck",
+    "description": "Device and system diagnostics with hardware info, tests, live monitors and battery tools; Shizuku unlocks additional read-only diagnostics"
   },
   {
     "name": "AppBooster",
@@ -1860,6 +1916,13 @@
     "github": "wized2/Fern",
     "url": "https://github.com/wized2/Fern",
     "description": "Material 3 live system monitor for CPU, RAM, storage, battery, thermal and network; Shizuku/root Advanced mode for real per-app CPU/RAM, thermals and force-stop."
+  },
+  {
+    "name": "FluxLinux",
+    "category": "Miscellaneous",
+    "github": "zenithblue-oss/fluxlinux",
+    "url": "https://github.com/zenithblue-oss/fluxlinux",
+    "description": "Run full Linux desktops on Android with 12 distros, PRoot/Chroot, XFCE4, X11 and PulseAudio; Shizuku applies the phantom-process fix"
   },
   {
     "name": "ghostlock-app",
@@ -1988,6 +2051,13 @@
     "description": "Remote control your device via Telegram messages"
   },
   {
+    "name": "TinyKit",
+    "category": "Miscellaneous",
+    "github": "Order52/tinykit",
+    "url": "https://github.com/Order52/tinykit",
+    "description": "39 KB toolbox of one-tap Shizuku tweaks: hide developer options, ad-blocking DNS, per-app camera/mic and background blocking, APK backup, cache cleaning, free hotspot and Shizuku start/stop."
+  },
+  {
     "name": "VineOS",
     "category": "Miscellaneous",
     "github": "Hexadecinull/VineOS",
@@ -2049,6 +2119,13 @@
     "github": "EasySpotApp/EasySpot",
     "url": "https://github.com/EasySpotApp/EasySpot",
     "description": "An app that allows you to turn on your hotspot remotely via Bluetooth - think Apple Continuity, but for everyone"
+  },
+  {
+    "name": "EtherTether",
+    "category": "Network",
+    "github": "oytuncagil/ethertether",
+    "url": "https://github.com/oytuncagil/ethertether",
+    "description": "Ethernet tethering with a fixed IPv4 address of your choice (for example for link-local devices) or normal DHCP, for any USB-C Ethernet adapter; profiles, Quick Settings tile, widget and automatic start on plug-in"
   },
   {
     "name": "FindMyDevice",
@@ -2235,8 +2312,8 @@
   {
     "name": "Universal-ReVanced-Manager",
     "category": "Patching",
-    "github": "Jman-Github/Universal-ReVanced-Manager",
-    "url": "https://github.com/Jman-Github/Universal-ReVanced-Manager",
+    "github": "Jman-Github/Universal-Patch-Manager",
+    "url": "https://github.com/Jman-Github/Universal-Patch-Manager",
     "description": "ReVanced patcher that has extra features the official manager doesn't have"
   },
   {
@@ -2331,6 +2408,13 @@
     "description": "Sleep timer that can pause media, and turn off WIFI/Bluetooth/Display"
   },
   {
+    "name": "Stop",
+    "category": "Power management",
+    "github": "burakgon/stop",
+    "url": "https://github.com/burakgon/stop",
+    "description": "Background app blocker that force-stops selected apps after you leave them via Shizuku, with new-install prompts and Play-safe updates"
+  },
+  {
     "name": "USB PD Bypass",
     "category": "Power management",
     "github": "ONDER1E/usbpdbs",
@@ -2408,6 +2492,13 @@
     "description": "Local-first Bitwarden/KeePass password vault with TOTP; Shizuku keeps autofill protection running in the background."
   },
   {
+    "name": "PhoneGuard",
+    "category": "Privacy",
+    "github": "monarchsofchaos004-gif/phoneguard",
+    "url": "https://github.com/monarchsofchaos004-gif/phoneguard",
+    "description": "Guards an elderly relative's phone against apps that take over the screen; with Shizuku it force-stops or disables the offender and revokes its overlay and accessibility access. Remote rescue via encrypted ntfy. Alpha."
+  },
+  {
     "name": "Privacify",
     "category": "Privacy",
     "github": "robinsrk/privacify",
@@ -2420,6 +2511,13 @@
     "github": "",
     "url": "https://f-droid.org/packages/io.github.dorumrr.privacyflip/",
     "description": "Manage your device privacy based on lock/unlock state `MIT` [(Source code)](https://github.com/dorumrr/privacyflip)"
+  },
+  {
+    "name": "RedirectGuard",
+    "category": "Privacy",
+    "github": "rdevz-ph/RedirectGuard",
+    "url": "https://github.com/rdevz-ph/RedirectGuard",
+    "description": "Intercepts unwanted ad redirects and deep links to prompt before opening external apps, terminating redirected processes with Shizuku"
   },
   {
     "name": "Blink",
@@ -2557,16 +2655,9 @@
   {
     "name": "ADB Application Manager Pro",
     "category": "Software management",
-    "github": "Bingblop/ADB-Application-Manager",
-    "url": "https://github.com/Bingblop/ADB-Application-Manager",
+    "github": "Bingblop/ADB-Root-Toolbox",
+    "url": "https://github.com/Bingblop/ADB-Root-Toolbox",
     "description": "All-in-one app and device manager for debloating, freezing, installing, backing up and tweaking hidden settings through Shizuku or ADB."
-  },
-  {
-    "name": "AppControlX",
-    "category": "Software management",
-    "github": "risunCode/AppControl-X",
-    "url": "https://github.com/risunCode/AppControl-X",
-    "description": "Freeze, force stop, uninstall apps, change background optimization and more"
   },
   {
     "name": "AppDualZuku",
@@ -3192,6 +3283,13 @@
     "description": "Routes the home button to different launchers based on Anbernic RG Rotate hinge state"
   },
   {
+    "name": "InkPalm+",
+    "category": "Vendor-specific",
+    "github": "rn-os/inkpalm-plus",
+    "url": "https://github.com/rn-os/inkpalm-plus",
+    "description": "Side panel of recent apps plus per-app e-ink tuning, fonts and touch-button remapping for the Moaan InkPalm Plus; Shizuku covers whitelist and animation toggles"
+  },
+  {
     "name": "MindControl",
     "category": "Vendor-specific",
     "github": "Dinico414/MindControl",
@@ -3234,18 +3332,18 @@
     "description": "Curated list of awesome Android apps making use of Shizuku"
   },
   {
-    "name": "universal-android-debloater-next-generation",
-    "category": "Discovered via GitHub search",
-    "github": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-    "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device."
-  },
-  {
     "name": "morphe-manager",
     "category": "Discovered via GitHub search",
     "github": "MorpheApp/morphe-manager",
     "url": "https://github.com/MorpheApp/morphe-manager",
     "description": "Morphe app patcher for Android"
+  },
+  {
+    "name": "universal-android-debloater-next-generation",
+    "category": "Discovered via GitHub search",
+    "github": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+    "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device."
   },
   {
     "name": "lamda",

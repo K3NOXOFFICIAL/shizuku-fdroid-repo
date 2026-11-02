@@ -1,6 +1,6 @@
-# Shizuku Apps Catalog (481 apps)
+# Shizuku Apps Catalog (495 apps)
 
-Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) on 2026-10-26. Sorted by category.
+Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) on 2026-11-02. Sorted by category.
 
 ## Shizuku implementations
 
@@ -37,10 +37,13 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 
 ## Android Auto
 
+- [AARE](https://github.com/prototux/AARE) — Open-source phone-side Android Auto reimplementation with navigation, media and messaging; Shizuku routes car audio without root
 - [Flywheel](https://github.com/Benjamin-Wiegand/Flywheel) — Free and open source alternative to Android Auto aimed at de-googled phones, compatible with existing headunits; Shizuku is used for app embedding and call-audio capture.
+- [UnknownAuto](https://github.com/GitMag/UnknownAuto) — Sideload and install Android Auto apps from unknown sources on-device, marking installs as Play-sourced via Shizuku
 
 ## Android TV
 
+- [Applingo](https://github.com/ernisn/Applingo) — Set one or more languages for any app and keep settings if dropped by the system. Manage language settings in batch easily with modern UI and Android TV support
 - [flicky](https://apt.izzysoft.de/fdroid/index/apk/app.flicky) — An F-Droid client designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/flicky)
 - [fluffy](https://apt.izzysoft.de/fdroid/index/apk/app.fluffy) — An file manager and archive viewer designed for Android TVs `GPL-3.0` [(Source code)](https://github.com/mlm-games/fluffy)
 - [RecentAppsTV](https://github.com/Qutaiba-Khader/RecentAppsTV) — Recent Apps overlay for Android TV
@@ -102,6 +105,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [Adaptive-Theme](https://play.google.com/store/apps/details?id=dev.lexip.hecate) — Smart dark mode based on ambient light `GPL-3.0` [(Source code)](https://github.com/xLexip/Adaptive-Theme)
 - [AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) — Port of Now Playing from Pixels to other Android devices
 - [android-perapp-language-selector](https://github.com/TakeruF/android-perapp-language-selector) — Force per-app language settings on Android 13+ without root, even for apps without built-in language options
+- [Applingo](https://github.com/ernisn/Applingo) — Set one or more languages for any app and keep settings if dropped by the system. Manage language settings in batch easily with modern UI and Android TV support
 - [AutoDND](https://f-droid.org/packages/moe.dic1911.autodnd/) — A simple tool to toggle DND automatically when using specified apps `AGPL-3.0` [(Source code)](https://github.com/im030/android_AutoDND)
 - [AutoRotate](https://github.com/eiyooooo/AutoRotate) — Manage automatic rotation of different screens on Android phones
 - [BlackOut](https://github.com/xUmutKx/BlackOut) — Turns grey dark-mode surfaces into true AMOLED black with per-app color rules and force-dark. Shizuku only enables force-dark; root and LSPosed are needed for full functionality
@@ -116,6 +120,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [Dawn-Desktop-Addons](https://github.com/Dawncraft/Dawn-Desktop-Addons) — Some Android app widgets and live wallpapers
 - [DevBay-Launcher](https://github.com/Zoder-Studio/DevBay-Launcher) — Developer-focused launcher with debug app sections, folders, gestures and Quick toggle chips for developer options, animations, fonts and wireless ADB via Shizuku.
 - [Dragon-Launcher](https://f-droid.org/packages/org.elnix.dragonlauncher/)
+- [Droidbubble](https://github.com/Velocity081/droidbubble) — Interactive Dynamic Island overlay around the camera cutout with media, notifications and charging indicators; Shizuku hides status-bar icons
 - [DroidOS](https://github.com/Katsuyamaki/DroidOS)
 - [duo-open](https://github.com/marcoazeem/duo-open) — System-wide iPhone-Duo frosted-glass fold effect for book-style foldables, driven by the real hinge angle as an accessibility overlay or live wallpaper, with optional Shizuku.
 - [DuoFold-Android](https://github.com/jcx396905-gif/DuoFold-Android) — System-wide iPhone Duo-style fold illusion that reprojects the whole screen from device motion with OpenGL ES, powered by Shizuku.
@@ -147,6 +152,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [Smart Island](https://github.com/agupta07505/SmartIsland) — A lightweight Android overlay that turns notifications, calls, and media playback into a floating glanceable island
 - [SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins) — Plugins for Smartspacer
 - [SuperShade](https://github.com/thejaustin/SuperShade) — Notification shade replacement that drives brightness, status bar expansion and power actions through Shizuku shell commands.
+- [SwitchAI](https://github.com/WSTxda/SwitchAI) — Select, start and manage preferred AI digital assistants with widgets and Quick Settings tiles; Shizuku enables voice input for specific assistants
 - [SysReadout-Launcher](https://github.com/AndSni/SysReadout-Launcher) — Terminal-style launcher that turns the home screen into a live system monitor with pinned status rows, process/connection/DNS tables and an event log, reading system data through Shizuku.
 - [System UI Tuner](https://github.com/zacharee/Tweaker) — View and modify hidden settings on Android devices
 - [TapTap](https://github.com/KieronQuinn/TapTap)
@@ -213,6 +219,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [BiliDownOut](https://f-droid.org/packages/cn.a10miaomiao.bilidown/) — Export videos downloaded from the Android version of Bilibili `GPL-3.0` [(Source code)](https://github.com/10miaomiao/bili-down-out)
 - [Crosstune](https://github.com/astrovm/crosstune) — Opens any music link in your preferred app with exact match, playlists and synced lyrics; one-tap setup via Shizuku
 - [hlbmerge_flutter](https://github.com/molihuan/hlbmerge_flutter) — Merge and export BiliBili cache files into MP4, supports mobile and computer client
+- [Hush](https://github.com/coldMEW/Hush) — Skips Spotify ad breaks by restarting Spotify in the background, with optional Spotify-only DNS filter; works via Wireless debugging or Shizuku
 - [Mihon](https://github.com/mihonapp/mihon) — Manga reader using Shizuku plugin management. Independent successor of Tachiyomi.
 
 ## File management
@@ -235,6 +242,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [sync-to-android-data](https://github.com/kamren-zirger/sync-to-android-data) — Syncs files in and out of restricted Android/data folders when target apps open or close
 - [twig](https://github.com/dev2ex/twig) — Size-first dual-pane file manager (~7MB) for local, archives, FTP/SFTP/SMB/WebDAV/S3/restic/Jellyfin
 - [UnscopeMyData](https://github.com/kepatotorica/UnscopeMyData) — Moves app data in and out of scoped storage folders using Shizuku for elevated file access.
+- [Voyager](https://github.com/AlanHuang99/Voyager) — Material Design 3 file browser for local storage, SFTP, FTP, SMB and WebDAV with an optional Shizuku session
 - [XArchiver](https://github.com/Xtra-Manager-Software/XArchiver) — File manager with built-in archive support
 - [XClean](https://github.com/utopiafar/XClean) — Rule-based cleaner with Normal, Shizuku and Root engines for clearing app junk.
 - [XFiles](https://github.com/Local1stDotApp/XFiles) — Offline file manager with root and Shizuku support for full filesystem access
@@ -300,24 +308,25 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [Neo-Store](https://f-droid.org/packages/com.machiav3lli.fdroid/) — An F-Droid client with modern UI and an arsenal of extra features `GPL-3.0` [(Source code)](https://github.com/NeoApplications/Neo-Store)
 - [Obtainium](https://github.com/ImranR98/Obtainium) — Get Android App Updates Directly From the Source
 - [Omnify](https://github.com/Victor-root/Omnify) — F-Droid client fork that also installs apps from external sources, with a Shizuku installer and a Works with Shizuku discovery row.
-- [OpenLoader](https://github.com/thebytearray/OpenLoader) — APK installer built for the Android developer verification era, using Shizuku for the privileged install path.
 - [Orion Store](https://github.com/RookieEnough/Orion-Store) — App store for modded apps
 - [PI](https://github.com/SanmerApps/PI) — Package installer that allows overwriting the package requester and executor
 - [SAI](https://f-droid.org/packages/com.aefyr.sai.fdroid/) — Android split APKs installer `GPL-3.0` [(Source code)](https://github.com/Aefyr/SAI)
 - [ShizuCoreFetch](https://github.com/elhizazi1/ShizuCoreFetch) — Shizuku-powered app manager with silent installs, updates, and batch operations
 - [Shizuku Package Installer](https://github.com/vvb2060/PackageInstaller) — A lightweight app installer replacement with split APK support
 - [ShizuStore](https://github.com/timschneeb/ShizuStore)
-- [tern](https://github.com/munzzyy/tern) — Obtainium-style updater that verifies package name, signing certificate and publisher checksums before installing via Shizuku, Dhizuku, root or the system installer on phones, tablets and TV.
+- [tern](https://gitlab.com/Munzzyy/tern) — Obtainium-style updater that verifies package name, signing certificate and publisher checksums before installing via Shizuku, Dhizuku, root or the system installer on phones, tablets and TV.
 - [universal-installer](https://github.com/pass-with-high-score/universal-installer) — Install and manage APK packages with split APK support, silent install via Shizuku, and VirusTotal malware scanning
 - [Vyxel Apps](https://github.com/NikhilKain/vyxel-apps)
 - [yuki](https://github.com/carlelieser/yuki) — Catalog and storefront for open-source Shizuku apps, crawled from GitHub
 
 ## Miscellaneous
 
+- [abCheck](https://github.com/abanana84/abCheck) — Device and system diagnostics with hardware info, tests, live monitors and battery tools; Shizuku unlocks additional read-only diagnostics
 - [AppBooster](https://github.com/androidexpert35/AppBooster) — GUI for Android's builtin `dex2oat` utility, allowing DEX code of installed apps to be re-optimized
 - [CaptureCap](https://github.com/yepgoryo/CaptureCap) — Screen and audio recording and streaming app, no root required
 - [Device Watch](https://github.com/jrs8205/Device-Watch) — Offline device monitor with widgets, per-app usage insights and a charging screensaver; optional Shizuku access reveals battery statistics, real CPU/GPU load and temperatures.
 - [Fern](https://github.com/wized2/Fern) — Material 3 live system monitor for CPU, RAM, storage, battery, thermal and network; Shizuku/root Advanced mode for real per-app CPU/RAM, thermals and force-stop.
+- [FluxLinux](https://github.com/zenithblue-oss/fluxlinux) — Run full Linux desktops on Android with 12 distros, PRoot/Chroot, XFCE4, X11 and PulseAudio; Shizuku applies the phantom-process fix
 - [ghostlock-app](https://github.com/YuKongA/ghostlock-app) — One-tap CVE-2026-43499 privilege-escalation app granting temporary uid 0 across many stock devices; Shizuku-required kernel profiles run through a shell Shizuku.
 - [HiddenAlarmRevealer](https://github.com/AhmetCanArslan/HiddenAlarmRevealer) — Find the reason why the alarm icon is active in the status bar
 - [IrisShot](https://github.com/raging-flames/IrisShot) — Scrolling-screenshot tool for Android games that auto-scrolls and stitches long captures using MediaProjection or Shizuku-powered shell capture.
@@ -336,6 +345,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [silent-alarm](https://github.com/izumisagirii/silent-alarm) — Earphone-first alarm clock that keeps alarms alive on aggressive OEM ROMs with a Shizuku or root watchdog that restarts the app.
 - [SimpleWear](https://play.google.com/store/apps/details?id=com.thewizrd.simplewear) — A simple app for controlling your Android devices from your WearOS watch `Apache-2.0` [(Source code)](https://github.com/SimpleAppProjects/SimpleWear)
 - [telegram-rc](https://github.com/telegram-sms/telegram-rc) — Remote control your device via Telegram messages
+- [TinyKit](https://github.com/Order52/tinykit) — 39 KB toolbox of one-tap Shizuku tweaks: hide developer options, ad-blocking DNS, per-app camera/mic and background blocking, APK backup, cache cleaning, free hotspot and Shizuku start/stop.
 - [VineOS](https://github.com/Hexadecinull/VineOS) — Android VM engine; Shizuku probes shell privileges for the no-root ADB and wireless debugging path.
 
 ## Network
@@ -348,6 +358,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [delta](https://github.com/supershadoe/delta)
 - [Dolphy-App](https://github.com/unvoiddd/Dolphy-App) — NFC, BLE, and IR multi-tool for wireless protocol research
 - [EasySpot](https://github.com/EasySpotApp/EasySpot) — An app that allows you to turn on your hotspot remotely via Bluetooth - think Apple Continuity, but for everyone
+- [EtherTether](https://github.com/oytuncagil/ethertether) — Ethernet tethering with a fixed IPv4 address of your choice (for example for link-local devices) or normal DHCP, for any USB-C Ethernet adapter; profiles, Quick Settings tile, widget and automatic start on plug-in
 - [FindMyDevice](https://gitlab.com/fmd-foss/fmd-android) — Secure & open-source alternative to Google's FindMyDevice service.
 - [FireWall Blocks](https://github.com/shynoiddev/FireWall-Blocks) — Dual-mode firewall: blocks internet access using Shizuku or a standard local VPN interface or both.
 - [hikari-adblock](https://github.com/codegeasse1/hikari-adblock) — No-root ad/tracker/malware blocker with local VPN DNS filter plus Shizuku iptables/nftables firewall modes
@@ -377,7 +388,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [LSPatch](https://github.com/JingMatrix/LSPatch) — A non-root Xposed framework extending from LSPosed
 - [Morphe](https://morphe.software/) — User-friendly YouTube patcher based on Universal-ReVanced-Manager `GPL-3.0` [(Source code)](https://github.com/MorpheApp/morphe-manager)
 - [NPatch](https://github.com/7723mod/NPatch)
-- [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-ReVanced-Manager) — ReVanced patcher that has extra features the official manager doesn't have
+- [Universal-ReVanced-Manager](https://github.com/Jman-Github/Universal-Patch-Manager) — ReVanced patcher that has extra features the official manager doesn't have
 
 ## Power management
 
@@ -394,6 +405,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) — Advanced reboot menu with Shizuku support
 - [ScreenOff](https://github.com/WuDi-ZhanShen/ScreenOff) — Turn off your Android's screen without entering standby/sleep mode
 - [sleep-timer](https://github.com/Xitee1/sleep-timer) — Sleep timer that can pause media, and turn off WIFI/Bluetooth/Display
+- [Stop](https://github.com/burakgon/stop) — Background app blocker that force-stops selected apps after you leave them via Shizuku, with new-install prompts and Play-safe updates
 - [USB PD Bypass](https://github.com/ONDER1E/usbpdbs) — Toggles USB PD battery-bypass mode at charge thresholds via Shizuku with self-healing recovery.
 - [volt](https://github.com/lebiggg/volt) — Greenify successor: scored app hibernation with UnifiedPush wake-on-push via Shizuku
 - [wakelogs](https://github.com/dernikiausd/wakelogs) — Analyzes display wakeups, CPU activity, alarms and device rest with Shizuku-based system diagnostics.
@@ -408,8 +420,10 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [AppOpsNext](https://github.com/1zumiii/AppOpsNext) — Android 15+ AppOps manager with permission templates, batch changes, install history and diagnostics via Shizuku
 - [AvarionX-Android-Antivirus](https://github.com/phsycologicalFudge/AvarionX-Android-Antivirus) — On-device antivirus with local malware/APK scanning, download monitoring and DNS filtering; Shizuku powers ransomware-style behaviour monitoring
 - [Monica](https://github.com/Monica-Pass/Monica) — Local-first Bitwarden/KeePass password vault with TOTP; Shizuku keeps autofill protection running in the background.
+- [PhoneGuard](https://github.com/monarchsofchaos004-gif/phoneguard) — Guards an elderly relative's phone against apps that take over the screen; with Shizuku it force-stops or disables the offender and revokes its overlay and accessibility access. Remote rescue via encrypted ntfy. Alpha.
 - [Privacify](https://github.com/robinsrk/privacify) — Privacy control center: permission scanner, sensor-usage timeline and privacy score, with Root/Shizuku advanced hardware controls.
 - [PrivacyFlip](https://f-droid.org/packages/io.github.dorumrr.privacyflip/) — Manage your device privacy based on lock/unlock state `MIT` [(Source code)](https://github.com/dorumrr/privacyflip)
+- [RedirectGuard](https://github.com/rdevz-ph/RedirectGuard) — Intercepts unwanted ad redirects and deep links to prompt before opening external apps, terminating redirected processes with Shizuku
 
 ## Productivity
 
@@ -438,8 +452,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 
 ## Software management
 
-- [ADB Application Manager Pro](https://github.com/Bingblop/ADB-Application-Manager) — All-in-one app and device manager for debloating, freezing, installing, backing up and tweaking hidden settings through Shizuku or ADB.
-- [AppControlX](https://github.com/risunCode/AppControl-X) — Freeze, force stop, uninstall apps, change background optimization and more
+- [ADB Application Manager Pro](https://github.com/Bingblop/ADB-Root-Toolbox) — All-in-one app and device manager for debloating, freezing, installing, backing up and tweaking hidden settings through Shizuku or ADB.
 - [AppDualZuku](https://github.com/nathanatgit/AppDualZuku) — Manages multiple app instances in isolated or shared workspaces (managed profiles) using Shizuku, with an optional root backend.
 - [AppManagerNG](https://github.com/SysAdminDoc/AppManagerNG) — Fork of [AppManager](https://github.com/muntashirakon/appmanager) to inspect, debloat, back up, freeze and control Android apps; works with Shizuku, ADB, Dhizuku or root.
 - [Appslim](https://github.com/Horizen5/Appslim/blob/master/docs/README_en.md) — Android runtime analyzer profiling launch behavior, CPU/memory and Dex calls, then slimming apps through hooks, rules and Shizuku or root actions.
@@ -538,6 +551,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [DiAuto](https://github.com/shihabal3amri/DiAuto) — Wireless and USB Android Auto receiver for BYD DiLink head units; runs entirely on the car display and uses Shizuku or root for privileged setup. No phone companion app or dongle.
 - [Evolve_Launcher_v2](https://github.com/JarJarBlinkz/Evolve_Launcher_v2) — Customizable home launcher for Meta Quest headsets with app organization, playtime tracking and Shizuku-powered clear data/cache actions.
 - [flipx](https://github.com/jlgrimes/flipx) — Routes the home button to different launchers based on Anbernic RG Rotate hinge state
+- [InkPalm+](https://github.com/rn-os/inkpalm-plus) — Side panel of recent apps plus per-app e-ink tuning, fonts and touch-button remapping for the Moaan InkPalm Plus; Shizuku covers whitelist and animation toggles
 - [MindControl](https://github.com/Dinico414/MindControl) — Hardware button remapper and AOD toolkit for the iKKO MindOne that monitors physical keys through Shizuku getevent, with a root fallback.
 - [panel-assistant](https://github.com/panel-assistant/android) — Home Assistant wall-panel dashboard with entity filtering, MQTT device controls and Shizuku/root-powered provisioning and verified installs.
 - [RedTrigger](https://github.com/zampierilucas/RedTrigger) — System-wide shoulder triggers for Nubia Red Magic phones
@@ -547,8 +561,8 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 
 - [android-foss](https://github.com/offa/android-foss) — A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) — Curated list of awesome Android apps making use of Shizuku
-- [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [morphe-manager](https://github.com/MorpheApp/morphe-manager) — Morphe app patcher for Android
+- [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [lamda](https://github.com/firerpa/lamda) — Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed for multi-device clusters and engineered deployments.
 - [sdmaid-se](https://github.com/d4rken-org/sdmaid-se) — SD Maid 2/SE is Android's most thorough cleaning tool.
 - [Hail](https://github.com/aistra0528/Hail) — Disable / Hide / Suspend / Uninstall Android apps without root.
