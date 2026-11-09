@@ -63,6 +63,13 @@
     "description": "Localized, extensible general-purpose AI agent for Android, iOS and macOS, with optional Shizuku and Termux integration for direct device control."
   },
   {
+    "name": "Agent-VScreen",
+    "category": "AI agents",
+    "github": "kilolonion/agent-vscreen",
+    "url": "https://github.com/kilolonion/agent-vscreen/blob/main/README.en.md",
+    "description": "Gives any on-phone AI agent its own background virtual display to launch and drive apps over CLI, MCP or HTTP, with on-device OCR, a take-over floating window and per-app restrictions `MIT` [(Source code)](https://github.com/kilolonion/agent-vscreen)"
+  },
+  {
     "name": "AndroidHarness",
     "category": "AI agents",
     "github": "Sanuu7/AndroidHarness",
@@ -2525,6 +2532,13 @@
     "github": "character-flat/Blink",
     "url": "https://github.com/character-flat/Blink",
     "description": "A persistent, highly customizable 20-20-20 rule eye-care timer that uses Shizuku to whitelist itself from Android's battery optimizations"
+  },
+  {
+    "name": "ClipHistory",
+    "category": "Productivity",
+    "github": "saroo98/cliphistory-android",
+    "url": "https://github.com/saroo98/cliphistory-android",
+    "description": "ClipHistory seamlessly saves the text you copy, so you can find and copy it again later. Works with any keyboard, with one-tap copy from Quick Settings and a super clean, highly customizable design. Passwords auto-delete if you want, and screenshots are blocked. Encrypted, private and 100% offline."
   },
   {
     "name": "Cresto",

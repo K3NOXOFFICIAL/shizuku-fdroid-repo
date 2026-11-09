@@ -1,6 +1,6 @@
-# Shizuku Apps Catalog (495 apps)
+# Shizuku Apps Catalog (497 apps)
 
-Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) on 2026-11-02. Sorted by category.
+Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) on 2026-11-09. Sorted by category.
 
 ## Shizuku implementations
 
@@ -16,6 +16,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 ## AI agents
 
 - [Aether](https://github.com/Zhou-Shilin/Aether) — Localized, extensible general-purpose AI agent for Android, iOS and macOS, with optional Shizuku and Termux integration for direct device control.
+- [Agent-VScreen](https://github.com/kilolonion/agent-vscreen/blob/main/README.en.md) — Gives any on-phone AI agent its own background virtual display to launch and drive apps over CLI, MCP or HTTP, with on-device OCR, a take-over floating window and per-app restrictions `MIT` [(Source code)](https://github.com/kilolonion/agent-vscreen)
 - [AndroidHarness](https://github.com/Sanuu7/AndroidHarness) — On-device coding agent that routes privileged commands through a Shizuku shell UID, with a Termux-prefixed Linux toolchain as fallback.
 - [AutoXiao'er](https://github.com/Joy-word/AutoXiaoer) — On-device AI agent that visually operates Android apps, with scheduled, notification, and ClawBot task triggers. Supports both Shizuku and accessibility-based control.
 - [ClawGUI](https://github.com/ZJU-REAL/ClawGUI) — On-device GUI-agent runner deploying the full ClawGUI brain stack on one phone controlled via Shizuku.
@@ -428,6 +429,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 ## Productivity
 
 - [Blink](https://github.com/character-flat/Blink) — A persistent, highly customizable 20-20-20 rule eye-care timer that uses Shizuku to whitelist itself from Android's battery optimizations
+- [ClipHistory](https://github.com/saroo98/cliphistory-android) — ClipHistory seamlessly saves the text you copy, so you can find and copy it again later. Works with any keyboard, with one-tap copy from Quick Settings and a super clean, highly customizable design. Passwords auto-delete if you want, and screenshots are blocked. Encrypted, private and 100% offline.
 - [Cresto](https://github.com/Nevodev/Cresto) — To-do app with AI capture, calendar sync and reminders; its Quick Settings current-screen extraction captures the screen through Shizuku shell access.
 - [Curbox](https://f-droid.org/packages/neth.iecal.curbox/)
 - [DetoxDroid](https://github.com/flxapps/DetoxDroid) — Digital Detoxing: Use your phone rather than letting your phone use you
