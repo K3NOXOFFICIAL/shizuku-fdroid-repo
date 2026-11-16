@@ -1,6 +1,6 @@
-# Shizuku Apps Catalog (497 apps)
+# Shizuku Apps Catalog (501 apps)
 
-Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) on 2026-11-09. Sorted by category.
+Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) on 2026-11-16. Sorted by category.
 
 ## Shizuku implementations
 
@@ -140,6 +140,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [LinkSheet](https://github.com/LinkSheet/LinkSheet) — Restore the Android <12 Url-App-Link-Chooser with Material3
 - [Lockscreen Widgets](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets)
 - [LogCat Live Wallpaper](https://github.com/YasserNull/logcat-live-wallpaper) — Live wallpaper that displays Logcat output on screen with customizable colors, fonts and scrolling; uses Shizuku or root for the full log.
+- [Majician](https://github.com/udmodz0/majician) — Rootless Android system tweaks, device identity spoofer, battery state simulation, DPI controls, and global mock location
 - [MultiLocale](https://github.com/Nightdavisao/MultiLocale) — A simple app that enables you to add additional (or "unsupported") languages to your device's locale settings, if the OEM (Xiaomi) doesn't let you
 - [O.status](https://github.com/CATCHINGL/O.status) — Minimal status-bar indicator for Wi-Fi, cellular and battery that uses optional Shizuku integration to match system icon colors.
 - [OmniPrompt](https://github.com/mrndstvndv/OmniPrompt) — A keyboard-first Android command palette that unifies app/device search, and system utilities into an overlay
@@ -196,6 +197,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [Dhizuku](https://github.com/iamr0s/Dhizuku) — Shizuku-inspired app that allows sharing DeviceOwner permissions to third-party apps
 - [harbor](https://f-droid.org/packages/com.monstera.harbor/) — Work-profile manager with optional Shizuku tools for automation `Apache-2.0` [(Source code)](https://github.com/Stem0794/harbor)
 - [OwnDroid](https://github.com/BinTianqi/OwnDroid)
+- [Webview Kiosk](https://github.com/nktnet1/webview-kiosk) — Turns a device into a locked-down kiosk web page with URL filtering, MDM, MQTT and UnifiedPush support; Shizuku or Dhizuku can provision device owner.
 
 ## Display management
 
@@ -213,6 +215,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [PortalPad](https://github.com/Smart-Home-User/PortalPad) — Turns your phone into a trackpad, air mouse, and remote for external displays like AR glasses, monitors, and TVs
 - [SecondScreen](https://play.google.com/store/apps/details?id=com.farmerbb.secondscreen.free) — Better screen mirroring for Android devices `Apache-2.0` [(Source code)](https://github.com/farmerbb/SecondScreen)
 - [Tideo Auto Brightness](https://github.com/faded-penguin021/Tideo-Auto-Brightness) — Glass-box adaptive-brightness replacement with explainable decisions and circadian support.
+- [XDesk](https://github.com/n2ray/xdesk) — Runs Android apps or a Linux desktop on an external, car or wireless display, with the phone as touchpad and keyboard; based on Termux:X11, no root required.
 
 ## Entertainment
 
@@ -271,6 +274,7 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [stalker](https://github.com/onerdna/stalker) — Save data viewer & editor for Shadow Fight 2
 - [SwiftSense](https://github.com/itsmelissadev/SwiftSense) — Gaming tuner that uses Shizuku to freeze background apps, disable packages and raise sensor sampling rates.
 - [translatefgo](https://github.com/rayshift/translatefgo) — Fate/Grand Order game translation project
+- [WaffleBoost](https://github.com/WafflingNinja/waffleboost) — Free, open-source ADB game booster: 27 tweaks over wireless debugging, reverted when you stop playing. Optional Shizuku fallback (not yet tested on device).
 
 ## Input methods
 
@@ -567,8 +571,8 @@ Auto-generated from [timschneeb/awesome-shizuku](https://github.com/timschneeb/a
 - [universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) — Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [lamda](https://github.com/firerpa/lamda) — Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed for multi-device clusters and engineered deployments.
 - [sdmaid-se](https://github.com/d4rken-org/sdmaid-se) — SD Maid 2/SE is Android's most thorough cleaning tool.
-- [Hail](https://github.com/aistra0528/Hail) — Disable / Hide / Suspend / Uninstall Android apps without root.
 - [Canta](https://github.com/samolego/Canta) — Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!
+- [Hail](https://github.com/aistra0528/Hail) — Disable / Hide / Suspend / Uninstall Android apps without root.
 - [awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) — Discover best root apps, Magisk, KernelSu & LSPosed(xposed) modules & rooting guides
 - [oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) — 个人收集的实用、良心开源安卓软件
 - [Aliucord](https://github.com/Aliucord/Aliucord) — A mod for the Discord Android App

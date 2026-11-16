@@ -805,6 +805,13 @@
     "description": "Live wallpaper that displays Logcat output on screen with customizable colors, fonts and scrolling; uses Shizuku or root for the full log."
   },
   {
+    "name": "Majician",
+    "category": "Customization",
+    "github": "udmodz0/majician",
+    "url": "https://github.com/udmodz0/majician",
+    "description": "Rootless Android system tweaks, device identity spoofer, battery state simulation, DPI controls, and global mock location"
+  },
+  {
     "name": "MultiLocale",
     "category": "Customization",
     "github": "Nightdavisao/MultiLocale",
@@ -1155,6 +1162,13 @@
     "description": ""
   },
   {
+    "name": "Webview Kiosk",
+    "category": "Device owner (DPM)",
+    "github": "nktnet1/webview-kiosk",
+    "url": "https://github.com/nktnet1/webview-kiosk",
+    "description": "Turns a device into a locked-down kiosk web page with URL filtering, MDM, MQTT and UnifiedPush support; Shizuku or Dhizuku can provision device owner."
+  },
+  {
     "name": "Adaptive-Hz",
     "category": "Display management",
     "github": "mahmutaunal/Adaptive-Hz",
@@ -1251,6 +1265,13 @@
     "github": "faded-penguin021/Tideo-Auto-Brightness",
     "url": "https://github.com/faded-penguin021/Tideo-Auto-Brightness",
     "description": "Glass-box adaptive-brightness replacement with explainable decisions and circadian support."
+  },
+  {
+    "name": "XDesk",
+    "category": "Display management",
+    "github": "n2ray/xdesk",
+    "url": "https://github.com/n2ray/xdesk",
+    "description": "Runs Android apps or a Linux desktop on an external, car or wireless display, with the phone as touchpad and keyboard; based on Termux:X11, no root required."
   },
   {
     "name": "Aniyomi",
@@ -1594,6 +1615,13 @@
     "github": "rayshift/translatefgo",
     "url": "https://github.com/rayshift/translatefgo",
     "description": "Fate/Grand Order game translation project"
+  },
+  {
+    "name": "WaffleBoost",
+    "category": "Games",
+    "github": "WafflingNinja/waffleboost",
+    "url": "https://github.com/WafflingNinja/waffleboost",
+    "description": "Free, open-source ADB game booster: 27 tweaks over wireless debugging, reverted when you stop playing. Optional Shizuku fallback (not yet tested on device)."
   },
   {
     "name": "8bitdo-xbox-bridge",
@@ -3374,18 +3402,18 @@
     "description": "SD Maid 2/SE is Android's most thorough cleaning tool."
   },
   {
-    "name": "Hail",
-    "category": "Discovered via GitHub search",
-    "github": "aistra0528/Hail",
-    "url": "https://github.com/aistra0528/Hail",
-    "description": "Disable / Hide / Suspend / Uninstall Android apps without root."
-  },
-  {
     "name": "Canta",
     "category": "Discovered via GitHub search",
     "github": "samolego/Canta",
     "url": "https://github.com/samolego/Canta",
     "description": "Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!"
+  },
+  {
+    "name": "Hail",
+    "category": "Discovered via GitHub search",
+    "github": "aistra0528/Hail",
+    "url": "https://github.com/aistra0528/Hail",
+    "description": "Disable / Hide / Suspend / Uninstall Android apps without root."
   },
   {
     "name": "awesome-android-root",
